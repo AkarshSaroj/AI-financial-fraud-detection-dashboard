@@ -61,8 +61,6 @@ Interactive visual dashboard built using `ai_flagged_frauds.csv`, includes:
 
 ---
 
----
-
 ## 🤖 AI Reasoning Logic
 
 Each suspicious transaction is explained using contextual AI logic based on:
@@ -96,10 +94,7 @@ _Data Analyst | Python | Power BI | SQL | Excel | GPT APIs_
 
 ## ✅ Outcome
 
-- ✅ End-to-end fraud detection pipeline
-- ✅ AI-enriched explanations for interpretability
-- ✅ Dashboard-ready insights
+- ✅ End-to-end fraud detection pipeline  
+- ✅ AI-enriched explanations for interpretability  
+- ✅ Dashboard-ready insights  
 - ✅ Ready for resume, interview, and GitHub
-
-
-
