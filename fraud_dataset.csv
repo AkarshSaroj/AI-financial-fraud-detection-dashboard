@@ -1,0 +1,1001 @@
+TransactionID,Amount,Location,Timestamp,Merchant_Category,Payment_Method,Device_Type
+TXN1000,469.27,Tokyo,2024-01-01 02:24:00,Tech,Debit Card,Desktop
+TXN1001,3010.12,New York,2024-01-01 23:28:00,Healthcare,Credit Card,Tablet
+TXN1002,1316.75,Berlin,2024-01-01 14:25:00,Healthcare,Credit Card,Desktop
+TXN1003,912.94,Bangalore,2024-01-01 21:12:00,Tech,UPI,Desktop
+TXN1004,169.62,Tokyo,2024-01-01 04:24:00,Healthcare,Debit Card,Tablet
+TXN1005,169.6,London,2024-01-02 08:02:00,Food,UPI,Desktop
+TXN1006,59.84,Delhi,2024-01-02 23:40:00,Food,Debit Card,Tablet
+TXN1007,2011.23,Tokyo,2024-01-01 05:51:00,Retail,Debit Card,Desktop
+TXN1008,919.08,London,2024-01-01 02:24:00,Retail,PayPal,Tablet
+TXN1009,1231.25,Berlin,2024-01-01 00:34:00,Retail,UPI,Tablet
+TXN1010,20.8,Berlin,2024-01-02 00:39:00,Healthcare,PayPal,Mobile
+TXN1011,3503.56,Delhi,2024-01-01 22:25:00,Food,Debit Card,Tablet
+TXN1012,1786.43,Mumbai,2024-01-01 18:59:00,Food,Credit Card,Tablet
+TXN1013,238.69,Delhi,2024-01-01 06:20:00,Food,Debit Card,Desktop
+TXN1014,200.68,New York,2024-01-01 11:53:00,Tech,PayPal,Tablet
+TXN1015,202.61,Tokyo,2024-01-01 21:39:00,Food,UPI,Mobile
+TXN1016,362.75,Bangalore,2024-01-01 16:28:00,Tech,UPI,Desktop
+TXN1017,743.93,Mumbai,2024-01-05 09:43:00,Retail,PayPal,Desktop
+TXN1018,565.54,Delhi,2024-01-01 03:31:00,Retail,UPI,Mobile
+TXN1019,344.22,London,2024-01-02 04:30:00,Healthcare,Crypto,Desktop
+TXN1020,946.37,Mumbai,2024-01-01 12:25:00,Retail,Credit Card,Desktop
+TXN1021,150.23,Tokyo,2024-01-01 13:24:00,Healthcare,Credit Card,Desktop
+TXN1022,345.52,Mumbai,2024-01-02 06:20:00,Banking,Credit Card,Desktop
+TXN1023,456.28,Tokyo,2024-01-02 04:17:00,Banking,UPI,Mobile
+TXN1024,608.93,Delhi,2024-01-05 17:44:00,Travel,UPI,Mobile
+TXN1025,1537.94,Tokyo,2024-01-01 03:17:00,Healthcare,Debit Card,Desktop
+TXN1026,222.74,Mumbai,2024-01-01 02:38:00,Travel,Debit Card,Desktop
+TXN1027,722.03,London,2024-01-02 06:55:00,Travel,Credit Card,Mobile
+TXN1028,897.5,Berlin,2024-01-01 20:43:00,Banking,Crypto,Mobile
+TXN1029,47.56,Mumbai,2024-01-01 07:41:00,Healthcare,Debit Card,Mobile
+TXN1030,935.33,Tokyo,2024-01-01 01:59:00,Banking,Debit Card,Desktop
+TXN1031,186.96,Berlin,2024-01-01 02:08:00,Travel,UPI,Desktop
+TXN1032,67.26,Tokyo,2024-01-03 05:54:00,Healthcare,Crypto,Tablet
+TXN1033,2973.69,London,2024-01-01 05:06:00,Travel,Credit Card,Mobile
+TXN1034,3370.63,Tokyo,2024-01-01 09:22:00,Food,Debit Card,Desktop
+TXN1035,1652.33,Delhi,2024-01-01 06:10:00,Healthcare,Crypto,Mobile
+TXN1036,363.29,Bangalore,2024-01-01 10:31:00,Healthcare,Crypto,Desktop
+TXN1037,102.78,Mumbai,2024-01-01 01:43:00,Travel,Credit Card,Mobile
+TXN1038,1152.75,Bangalore,2024-01-01 17:34:00,Food,Crypto,Desktop
+TXN1039,580.09,Tokyo,2024-01-01 01:40:00,Tech,Crypto,Tablet
+TXN1040,130.15,London,2024-01-02 14:40:00,Banking,Crypto,Tablet
+TXN1041,683.55,Mumbai,2024-01-01 06:23:00,Travel,Debit Card,Mobile
+TXN1042,34.99,Tokyo,2024-01-01 18:38:00,Healthcare,Credit Card,Desktop
+TXN1043,2400.42,Berlin,2024-01-03 02:54:00,Banking,Crypto,Desktop
+TXN1044,299.46,New York,2024-01-02 01:15:00,Banking,Crypto,Mobile
+TXN1045,1086.26,Tokyo,2024-01-01 18:16:00,Banking,Debit Card,Desktop
+TXN1046,373.55,Bangalore,2024-01-01 09:24:00,Tech,Credit Card,Mobile
+TXN1047,734.11,Mumbai,2024-01-01 09:43:00,Retail,UPI,Desktop
+TXN1048,791.22,Bangalore,2024-01-02 02:34:00,Travel,Debit Card,Mobile
+TXN1049,204.39,Mumbai,2024-01-06 03:20:00,Retail,Credit Card,Desktop
+TXN1050,3492.81,Tokyo,2024-01-02 02:01:00,Retail,Crypto,Mobile
+TXN1051,1492.25,Delhi,2024-01-01 19:34:00,Retail,Credit Card,Desktop
+TXN1052,2805.09,Berlin,2024-01-02 07:28:00,Banking,Credit Card,Tablet
+TXN1053,2252.15,Tokyo,2024-01-01 15:01:00,Food,Credit Card,Desktop
+TXN1054,911.05,Bangalore,2024-01-01 01:29:00,Banking,UPI,Mobile
+TXN1055,2549.44,New York,2024-01-01 19:49:00,Banking,Credit Card,Tablet
+TXN1056,92.66,New York,2024-01-04 03:52:00,Healthcare,UPI,Desktop
+TXN1057,218.13,London,2024-01-01 04:37:00,Healthcare,Crypto,Tablet
+TXN1058,46.28,Mumbai,2024-01-02 04:06:00,Retail,UPI,Desktop
+TXN1059,393.53,Bangalore,2024-01-01 05:23:00,Banking,Crypto,Tablet
+TXN1060,492.13,London,2024-01-01 18:25:00,Retail,Crypto,Mobile
+TXN1061,316.56,Bangalore,2024-01-01 02:26:00,Healthcare,UPI,Desktop
+TXN1062,1764.56,Mumbai,2024-01-01 14:21:00,Food,Debit Card,Desktop
+TXN1063,441.23,Tokyo,2024-01-02 09:52:00,Travel,PayPal,Mobile
+TXN1064,329.8,Tokyo,2024-01-01 10:14:00,Retail,Credit Card,Tablet
+TXN1065,782.41,New York,2024-01-02 02:14:00,Food,PayPal,Mobile
+TXN1066,151.9,Tokyo,2024-01-02 14:05:00,Travel,Credit Card,Mobile
+TXN1067,1620.48,Tokyo,2024-01-03 14:52:00,Tech,Credit Card,Tablet
+TXN1068,77.48,Delhi,2024-01-01 06:25:00,Retail,Crypto,Mobile
+TXN1069,4334.15,New York,2024-01-01 12:13:00,Retail,Credit Card,Desktop
+TXN1070,1479.48,London,2024-01-01 03:58:00,Tech,Credit Card,Desktop
+TXN1071,221.54,Berlin,2024-01-05 21:22:00,Tech,UPI,Desktop
+TXN1072,5.54,Delhi,2024-01-03 14:48:00,Retail,PayPal,Mobile
+TXN1073,1689.9,London,2024-01-01 18:38:00,Tech,UPI,Desktop
+TXN1074,1227.1,Mumbai,2024-01-02 20:17:00,Banking,Credit Card,Desktop
+TXN1075,1305.66,Delhi,2024-01-01 17:39:00,Travel,Crypto,Desktop
+TXN1076,1475.21,London,2024-01-01 23:26:00,Travel,UPI,Desktop
+TXN1077,76.93,Mumbai,2024-01-01 02:14:00,Travel,UPI,Desktop
+TXN1078,443.89,New York,2024-01-02 09:46:00,Banking,Debit Card,Desktop
+TXN1079,123.15,Berlin,2024-01-01 03:16:00,Tech,Credit Card,Mobile
+TXN1080,1988.53,Mumbai,2024-01-02 17:58:00,Food,Crypto,Desktop
+TXN1081,976.3,Tokyo,2024-01-02 12:33:00,Tech,UPI,Desktop
+TXN1082,401.82,Bangalore,2024-01-02 05:36:00,Retail,UPI,Tablet
+TXN1083,65.67,Mumbai,2024-01-01 00:53:00,Healthcare,Crypto,Mobile
+TXN1084,372.49,Mumbai,2024-01-01 08:40:00,Travel,Credit Card,Mobile
+TXN1085,393.31,Berlin,2024-01-01 07:19:00,Tech,Debit Card,Mobile
+TXN1086,1307.88,Bangalore,2024-01-01 10:42:00,Food,UPI,Mobile
+TXN1087,1014.89,Tokyo,2024-01-01 02:12:00,Retail,Debit Card,Desktop
+TXN1088,2182.25,London,2024-01-03 18:20:00,Banking,PayPal,Desktop
+TXN1089,639.07,London,2024-01-01 19:22:00,Banking,Credit Card,Tablet
+TXN1090,127.37,Mumbai,2024-01-01 08:45:00,Food,PayPal,Tablet
+TXN1091,1249.13,Bangalore,2024-01-01 12:08:00,Retail,PayPal,Mobile
+TXN1092,1430.39,Bangalore,2024-01-01 14:13:00,Travel,PayPal,Tablet
+TXN1093,823.89,Tokyo,2024-01-01 22:01:00,Tech,Credit Card,Tablet
+TXN1094,1473.89,Berlin,2024-01-01 17:24:00,Retail,Credit Card,Mobile
+TXN1095,680.81,New York,2024-01-03 12:26:00,Banking,Crypto,Mobile
+TXN1096,739.68,London,2024-01-01 16:29:00,Food,Debit Card,Tablet
+TXN1097,557.81,Berlin,2024-01-05 20:21:00,Food,Debit Card,Desktop
+TXN1098,25.75,Delhi,2024-01-02 21:45:00,Tech,Crypto,Tablet
+TXN1099,114.17,London,2024-01-01 05:36:00,Food,Crypto,Tablet
+TXN1100,31.93,Berlin,2024-01-03 16:01:00,Food,PayPal,Desktop
+TXN1101,1011.73,London,2024-01-01 02:58:00,Retail,Crypto,Desktop
+TXN1102,377.4,New York,2024-01-02 16:49:00,Travel,UPI,Mobile
+TXN1103,710.44,Delhi,2024-01-01 11:29:00,Tech,Debit Card,Mobile
+TXN1104,2381.27,New York,2024-01-03 02:29:00,Retail,Crypto,Tablet
+TXN1105,286.74,Tokyo,2024-01-03 00:36:00,Travel,UPI,Desktop
+TXN1106,528.28,Delhi,2024-01-02 15:20:00,Retail,UPI,Mobile
+TXN1107,1408.75,Mumbai,2024-01-02 13:27:00,Healthcare,UPI,Tablet
+TXN1108,259.81,Berlin,2024-01-01 08:43:00,Retail,UPI,Desktop
+TXN1109,80.1,Delhi,2024-01-01 02:01:00,Food,PayPal,Tablet
+TXN1110,342.14,Tokyo,2024-01-01 12:22:00,Travel,UPI,Mobile
+TXN1111,175.81,Tokyo,2024-01-01 04:34:00,Tech,PayPal,Mobile
+TXN1112,2654.95,New York,2024-01-02 04:29:00,Tech,PayPal,Desktop
+TXN1113,1650.89,London,2024-01-01 10:11:00,Travel,UPI,Tablet
+TXN1114,1003.49,Delhi,2024-01-04 17:07:00,Food,Debit Card,Desktop
+TXN1115,2051.52,Berlin,2024-01-02 00:35:00,Banking,UPI,Mobile
+TXN1116,1627.97,Delhi,2024-01-02 17:29:00,Retail,UPI,Mobile
+TXN1117,206.5,Bangalore,2024-01-01 03:24:00,Food,UPI,Tablet
+TXN1118,2230.81,London,2024-01-02 23:32:00,Healthcare,Debit Card,Tablet
+TXN1119,775.1,Berlin,2024-01-03 13:27:00,Travel,Credit Card,Tablet
+TXN1120,1647.35,Berlin,2024-01-01 16:01:00,Retail,Credit Card,Desktop
+TXN1121,2264.24,Mumbai,2024-01-01 22:22:00,Tech,PayPal,Tablet
+TXN1122,382.73,New York,2024-01-02 10:44:00,Banking,PayPal,Tablet
+TXN1123,116.59,Mumbai,2024-01-01 04:36:00,Healthcare,Debit Card,Mobile
+TXN1124,258.69,Berlin,2024-01-01 16:45:00,Tech,Crypto,Mobile
+TXN1125,557.06,London,2024-01-01 12:12:00,Travel,Credit Card,Tablet
+TXN1126,1703.83,Delhi,2024-01-01 03:47:00,Retail,PayPal,Tablet
+TXN1127,1971.34,Delhi,2024-01-01 10:59:00,Travel,Credit Card,Mobile
+TXN1128,6.98,London,2024-01-01 01:41:00,Retail,Debit Card,Tablet
+TXN1129,714.88,Berlin,2024-01-01 00:37:00,Food,Debit Card,Desktop
+TXN1130,540.27,Tokyo,2024-01-01 03:29:00,Banking,Crypto,Desktop
+TXN1131,251.17,Delhi,2024-01-04 07:11:00,Food,Crypto,Desktop
+TXN1132,127.68,Tokyo,2024-01-01 19:08:00,Food,Debit Card,Tablet
+TXN1133,411.91,Delhi,2024-01-04 09:01:00,Travel,PayPal,Mobile
+TXN1134,2863.12,Delhi,2024-01-01 13:35:00,Banking,Credit Card,Tablet
+TXN1135,390.38,New York,2024-01-01 08:58:00,Retail,UPI,Tablet
+TXN1136,731.45,New York,2024-01-01 16:55:00,Retail,Crypto,Mobile
+TXN1137,1214.09,Bangalore,2024-01-01 13:53:00,Healthcare,UPI,Mobile
+TXN1138,451.97,Mumbai,2024-01-01 02:40:00,Tech,PayPal,Mobile
+TXN1139,3567.8,London,2024-01-02 00:34:00,Healthcare,Crypto,Desktop
+TXN1140,3282.01,London,2024-01-01 05:50:00,Healthcare,UPI,Tablet
+TXN1141,290.06,London,2024-01-01 23:11:00,Retail,PayPal,Mobile
+TXN1142,687.66,Bangalore,2024-01-02 01:12:00,Travel,Credit Card,Tablet
+TXN1143,357.93,New York,2024-01-01 03:57:00,Food,PayPal,Desktop
+TXN1144,335.25,Berlin,2024-01-01 01:31:00,Food,Crypto,Desktop
+TXN1145,37.58,Tokyo,2024-01-02 12:25:00,Food,Debit Card,Mobile
+TXN1146,940.49,Tokyo,2024-01-01 14:46:00,Banking,Credit Card,Mobile
+TXN1147,698.52,Berlin,2024-01-01 01:26:00,Retail,UPI,Tablet
+TXN1148,52.85,Bangalore,2024-01-06 06:31:00,Travel,Crypto,Mobile
+TXN1149,326.63,Berlin,2024-01-01 01:25:00,Banking,Debit Card,Tablet
+TXN1150,2388.86,London,2024-01-02 04:30:00,Tech,PayPal,Mobile
+TXN1151,273.86,Mumbai,2024-01-05 02:46:00,Travel,Debit Card,Tablet
+TXN1152,156.53,Delhi,2024-01-01 06:33:00,Healthcare,Crypto,Tablet
+TXN1153,672.27,Tokyo,2024-01-01 03:40:00,Travel,Crypto,Tablet
+TXN1154,4244.04,New York,2024-01-01 03:06:00,Travel,Debit Card,Tablet
+TXN1155,277.14,New York,2024-01-01 08:40:00,Food,PayPal,Desktop
+TXN1156,1115.16,Bangalore,2024-01-01 02:33:00,Travel,Debit Card,Tablet
+TXN1157,1433.89,New York,2024-01-02 04:16:00,Healthcare,Crypto,Mobile
+TXN1158,271.33,London,2024-01-01 01:32:00,Healthcare,Crypto,Desktop
+TXN1159,1302.75,Tokyo,2024-01-01 17:05:00,Retail,UPI,Desktop
+TXN1160,458.52,Berlin,2024-01-06 17:06:00,Travel,UPI,Tablet
+TXN1161,1000.5,London,2024-01-02 16:21:00,Food,Credit Card,Desktop
+TXN1162,1003.84,Bangalore,2024-01-01 22:55:00,Travel,Crypto,Tablet
+TXN1163,767.39,London,2024-01-01 08:46:00,Tech,UPI,Mobile
+TXN1164,94.63,Berlin,2024-01-01 23:28:00,Tech,Debit Card,Tablet
+TXN1165,1803.64,Mumbai,2024-01-01 17:58:00,Food,PayPal,Desktop
+TXN1166,386.81,Bangalore,2024-01-01 13:19:00,Retail,Debit Card,Mobile
+TXN1167,206.43,Mumbai,2024-01-01 03:21:00,Retail,PayPal,Tablet
+TXN1168,41.63,Delhi,2024-01-03 04:14:00,Healthcare,UPI,Mobile
+TXN1169,893.78,Mumbai,2024-01-01 14:20:00,Healthcare,Credit Card,Mobile
+TXN1170,1131.85,Delhi,2024-01-01 05:11:00,Banking,Debit Card,Desktop
+TXN1171,16.73,Delhi,2024-01-01 11:00:00,Food,Debit Card,Mobile
+TXN1172,717.63,Mumbai,2024-01-01 12:49:00,Travel,Debit Card,Desktop
+TXN1173,256.82,Bangalore,2024-01-02 18:10:00,Food,PayPal,Mobile
+TXN1174,1036.12,Berlin,2024-01-02 07:44:00,Banking,UPI,Tablet
+TXN1175,191.6,London,2024-01-02 11:11:00,Healthcare,Debit Card,Mobile
+TXN1176,1174.21,London,2024-01-01 00:15:00,Food,Debit Card,Tablet
+TXN1177,488.96,Berlin,2024-01-01 12:54:00,Food,Credit Card,Tablet
+TXN1178,2760.34,Tokyo,2024-01-01 15:45:00,Healthcare,Credit Card,Mobile
+TXN1179,147.94,Tokyo,2024-01-01 00:27:00,Banking,UPI,Tablet
+TXN1180,417.13,Delhi,2024-01-01 07:13:00,Healthcare,UPI,Mobile
+TXN1181,120.44,Delhi,2024-01-02 10:16:00,Retail,Crypto,Mobile
+TXN1182,2586.19,Bangalore,2024-01-01 03:32:00,Travel,Credit Card,Tablet
+TXN1183,2098.33,New York,2024-01-01 18:23:00,Healthcare,Crypto,Tablet
+TXN1184,298.33,Mumbai,2024-01-01 05:48:00,Banking,PayPal,Desktop
+TXN1185,1078.76,Delhi,2024-01-01 00:17:00,Tech,Crypto,Tablet
+TXN1186,1699.48,London,2024-01-01 06:37:00,Retail,Debit Card,Desktop
+TXN1187,810.13,Bangalore,2024-01-04 17:23:00,Tech,Crypto,Tablet
+TXN1188,754.28,Mumbai,2024-01-02 14:48:00,Healthcare,UPI,Mobile
+TXN1189,276.88,Bangalore,2024-01-04 05:00:00,Retail,PayPal,Tablet
+TXN1190,97.73,Mumbai,2024-01-01 16:03:00,Travel,Debit Card,Mobile
+TXN1191,2275.12,Mumbai,2024-01-01 02:47:00,Healthcare,Crypto,Mobile
+TXN1192,2306.77,Berlin,2024-01-01 19:03:00,Travel,PayPal,Mobile
+TXN1193,1002.67,Delhi,2024-01-01 14:32:00,Food,PayPal,Desktop
+TXN1194,414.05,Bangalore,2024-01-02 20:38:00,Tech,Debit Card,Tablet
+TXN1195,429.57,Bangalore,2024-01-01 02:28:00,Retail,Crypto,Mobile
+TXN1196,1294.47,Berlin,2024-01-01 16:04:00,Travel,PayPal,Mobile
+TXN1197,2274.1,London,2024-01-01 03:54:00,Banking,PayPal,Desktop
+TXN1198,2181.13,London,2024-01-01 09:25:00,Travel,Credit Card,Tablet
+TXN1199,1513.56,Tokyo,2024-01-02 08:05:00,Banking,PayPal,Tablet
+TXN1200,1027.31,Delhi,2024-01-01 15:30:00,Healthcare,Credit Card,Desktop
+TXN1201,87.89,Delhi,2024-01-01 11:18:00,Retail,Crypto,Desktop
+TXN1202,176.29,New York,2024-01-01 12:02:00,Travel,Crypto,Tablet
+TXN1203,2288.23,Berlin,2024-01-01 14:45:00,Travel,Crypto,Desktop
+TXN1204,932.49,London,2024-01-02 12:53:00,Retail,UPI,Tablet
+TXN1205,9.24,Mumbai,2024-01-03 05:26:00,Travel,Crypto,Tablet
+TXN1206,107.0,Bangalore,2024-01-04 02:36:00,Banking,PayPal,Mobile
+TXN1207,1089.16,Delhi,2024-01-02 13:06:00,Travel,Debit Card,Mobile
+TXN1208,5.07,Bangalore,2024-01-01 09:05:00,Tech,Credit Card,Tablet
+TXN1209,175.32,Bangalore,2024-01-02 03:57:00,Healthcare,UPI,Tablet
+TXN1210,795.7,New York,2024-01-01 13:48:00,Food,Crypto,Tablet
+TXN1211,1177.32,London,2024-01-01 07:03:00,Banking,Crypto,Tablet
+TXN1212,1055.44,Delhi,2024-01-02 20:06:00,Tech,Debit Card,Tablet
+TXN1213,253.95,Bangalore,2024-01-01 00:56:00,Healthcare,Debit Card,Tablet
+TXN1214,1245.42,Delhi,2024-01-03 07:41:00,Retail,UPI,Desktop
+TXN1215,270.82,Mumbai,2024-01-01 14:51:00,Banking,Credit Card,Tablet
+TXN1216,393.63,New York,2024-01-02 00:20:00,Food,Crypto,Desktop
+TXN1217,1372.36,Mumbai,2024-01-02 01:50:00,Healthcare,UPI,Desktop
+TXN1218,1048.77,Delhi,2024-01-03 06:07:00,Food,PayPal,Tablet
+TXN1219,1891.96,Tokyo,2024-01-02 00:17:00,Retail,PayPal,Tablet
+TXN1220,1071.81,Delhi,2024-01-01 22:50:00,Retail,UPI,Desktop
+TXN1221,840.04,London,2024-01-01 01:39:00,Banking,Crypto,Desktop
+TXN1222,98.36,Bangalore,2024-01-01 17:32:00,Travel,UPI,Tablet
+TXN1223,458.42,Bangalore,2024-01-01 03:54:00,Retail,Crypto,Tablet
+TXN1224,308.16,Mumbai,2024-01-02 08:05:00,Healthcare,Debit Card,Desktop
+TXN1225,279.7,New York,2024-01-01 17:13:00,Travel,UPI,Desktop
+TXN1226,3612.31,Tokyo,2024-01-02 03:21:00,Tech,Crypto,Desktop
+TXN1227,499.39,Berlin,2024-01-01 01:01:00,Food,UPI,Mobile
+TXN1228,2226.06,Bangalore,2024-01-01 02:07:00,Travel,UPI,Desktop
+TXN1229,997.33,London,2024-01-02 06:14:00,Food,Crypto,Mobile
+TXN1230,1583.83,Mumbai,2024-01-01 01:47:00,Travel,Crypto,Tablet
+TXN1231,698.44,Mumbai,2024-01-01 01:46:00,Tech,Credit Card,Tablet
+TXN1232,860.16,Berlin,2024-01-01 00:17:00,Retail,UPI,Desktop
+TXN1233,678.29,London,2024-01-04 03:14:00,Tech,PayPal,Tablet
+TXN1234,217.21,New York,2024-01-02 08:06:00,Retail,UPI,Tablet
+TXN1235,1281.76,London,2024-01-01 10:27:00,Retail,UPI,Tablet
+TXN1236,329.58,New York,2024-01-01 08:26:00,Food,Crypto,Tablet
+TXN1237,24.62,London,2024-01-01 10:19:00,Healthcare,UPI,Mobile
+TXN1238,1036.97,London,2024-01-02 11:45:00,Tech,UPI,Mobile
+TXN1239,194.93,Delhi,2024-01-02 01:59:00,Travel,PayPal,Desktop
+TXN1240,2821.08,Mumbai,2024-01-01 04:54:00,Tech,Crypto,Desktop
+TXN1241,3077.56,London,2024-01-01 04:35:00,Food,UPI,Desktop
+TXN1242,2463.51,Berlin,2024-01-01 02:29:00,Retail,Debit Card,Tablet
+TXN1243,462.29,London,2024-01-02 01:54:00,Food,Credit Card,Tablet
+TXN1244,15.58,Bangalore,2024-01-02 10:41:00,Banking,PayPal,Mobile
+TXN1245,2635.52,Mumbai,2024-01-01 07:23:00,Banking,UPI,Mobile
+TXN1246,558.94,Bangalore,2024-01-01 00:30:00,Travel,Debit Card,Desktop
+TXN1247,3400.84,Mumbai,2024-01-01 02:03:00,Food,UPI,Mobile
+TXN1248,3313.74,Bangalore,2024-01-04 10:30:00,Travel,UPI,Mobile
+TXN1249,1917.39,London,2024-01-01 08:24:00,Travel,Crypto,Mobile
+TXN1250,348.78,London,2024-01-02 11:11:00,Banking,Crypto,Mobile
+TXN1251,486.29,Delhi,2024-01-01 23:31:00,Travel,Crypto,Mobile
+TXN1252,1904.73,Berlin,2024-01-01 11:32:00,Banking,Debit Card,Desktop
+TXN1253,381.15,Bangalore,2024-01-01 05:31:00,Retail,UPI,Desktop
+TXN1254,185.72,New York,2024-01-01 03:06:00,Food,Credit Card,Mobile
+TXN1255,813.74,Delhi,2024-01-01 22:54:00,Travel,PayPal,Desktop
+TXN1256,2751.29,Bangalore,2024-01-02 11:45:00,Banking,Crypto,Tablet
+TXN1257,1190.83,Bangalore,2024-01-02 00:46:00,Tech,Crypto,Mobile
+TXN1258,844.11,Delhi,2024-01-01 18:08:00,Travel,UPI,Tablet
+TXN1259,102.23,London,2024-01-01 01:01:00,Healthcare,UPI,Desktop
+TXN1260,954.53,Bangalore,2024-01-04 10:58:00,Retail,Debit Card,Desktop
+TXN1261,4610.57,London,2024-01-02 14:28:00,Retail,Debit Card,Tablet
+TXN1262,150.92,Delhi,2024-01-01 08:18:00,Tech,Crypto,Desktop
+TXN1263,730.5,London,2024-01-04 21:51:00,Banking,UPI,Mobile
+TXN1264,2098.61,Mumbai,2024-01-01 22:06:00,Travel,Credit Card,Tablet
+TXN1265,1350.03,New York,2024-01-01 20:57:00,Banking,PayPal,Mobile
+TXN1266,1194.07,Tokyo,2024-01-02 09:05:00,Retail,UPI,Tablet
+TXN1267,1212.29,Bangalore,2024-01-02 16:04:00,Banking,UPI,Desktop
+TXN1268,445.49,Berlin,2024-01-02 01:38:00,Retail,Debit Card,Tablet
+TXN1269,347.56,New York,2024-01-01 03:17:00,Banking,PayPal,Tablet
+TXN1270,1657.37,Tokyo,2024-01-01 09:54:00,Tech,Crypto,Mobile
+TXN1271,1661.33,London,2024-01-03 15:10:00,Food,UPI,Desktop
+TXN1272,2017.95,Bangalore,2024-01-01 06:06:00,Tech,Crypto,Mobile
+TXN1273,2444.62,London,2024-01-01 11:10:00,Tech,UPI,Desktop
+TXN1274,716.09,Mumbai,2024-01-01 13:34:00,Food,Crypto,Mobile
+TXN1275,696.18,Delhi,2024-01-01 13:53:00,Food,PayPal,Tablet
+TXN1276,1600.95,Bangalore,2024-01-01 22:46:00,Travel,Debit Card,Mobile
+TXN1277,1049.72,Tokyo,2024-01-03 20:47:00,Travel,PayPal,Desktop
+TXN1278,1210.55,Tokyo,2024-01-01 06:36:00,Tech,Credit Card,Desktop
+TXN1279,1588.62,Mumbai,2024-01-01 03:06:00,Tech,Debit Card,Tablet
+TXN1280,2207.32,Mumbai,2024-01-01 05:16:00,Retail,PayPal,Desktop
+TXN1281,412.48,Bangalore,2024-01-03 04:18:00,Retail,Credit Card,Mobile
+TXN1282,470.94,London,2024-01-02 00:54:00,Travel,UPI,Tablet
+TXN1283,98.7,Berlin,2024-01-01 08:04:00,Healthcare,UPI,Desktop
+TXN1284,863.41,Tokyo,2024-01-02 16:37:00,Healthcare,Crypto,Desktop
+TXN1285,36.6,Tokyo,2024-01-02 23:25:00,Travel,Debit Card,Mobile
+TXN1286,626.61,Mumbai,2024-01-02 20:58:00,Retail,UPI,Mobile
+TXN1287,782.29,New York,2024-01-03 12:17:00,Retail,Debit Card,Tablet
+TXN1288,337.63,Mumbai,2024-01-01 06:58:00,Healthcare,UPI,Desktop
+TXN1289,893.63,Berlin,2024-01-02 09:45:00,Banking,Crypto,Mobile
+TXN1290,30.98,London,2024-01-01 14:48:00,Banking,PayPal,Tablet
+TXN1291,38.06,London,2024-01-02 20:17:00,Retail,Crypto,Desktop
+TXN1292,1729.35,New York,2024-01-02 07:17:00,Banking,Credit Card,Desktop
+TXN1293,446.59,Tokyo,2024-01-02 11:57:00,Food,UPI,Tablet
+TXN1294,135.89,Mumbai,2024-01-02 01:37:00,Travel,Credit Card,Tablet
+TXN1295,738.65,London,2024-01-01 04:41:00,Travel,Credit Card,Mobile
+TXN1296,1469.65,Berlin,2024-01-01 18:54:00,Retail,Debit Card,Desktop
+TXN1297,243.12,Bangalore,2024-01-05 04:16:00,Tech,UPI,Desktop
+TXN1298,975.22,Delhi,2024-01-03 18:29:00,Healthcare,Credit Card,Desktop
+TXN1299,89.21,Delhi,2024-01-01 01:03:00,Retail,PayPal,Tablet
+TXN1300,53.07,Delhi,2024-01-01 04:19:00,Banking,Credit Card,Mobile
+TXN1301,757.91,Tokyo,2024-01-01 03:23:00,Healthcare,PayPal,Desktop
+TXN1302,777.91,Mumbai,2024-01-02 07:04:00,Tech,Debit Card,Tablet
+TXN1303,1014.54,New York,2024-01-02 16:51:00,Banking,Credit Card,Desktop
+TXN1304,1294.96,London,2024-01-01 05:45:00,Food,Crypto,Mobile
+TXN1305,3723.56,Bangalore,2024-01-01 16:55:00,Banking,Debit Card,Desktop
+TXN1306,726.29,Berlin,2024-01-02 20:05:00,Food,PayPal,Mobile
+TXN1307,390.02,Bangalore,2024-01-02 07:40:00,Healthcare,Debit Card,Mobile
+TXN1308,1585.65,Berlin,2024-01-01 18:45:00,Food,Credit Card,Desktop
+TXN1309,315.85,Tokyo,2024-01-01 21:25:00,Healthcare,UPI,Desktop
+TXN1310,577.98,Mumbai,2024-01-01 17:02:00,Healthcare,UPI,Mobile
+TXN1311,81.71,Delhi,2024-01-01 08:28:00,Healthcare,PayPal,Tablet
+TXN1312,25.68,Mumbai,2024-01-01 19:58:00,Healthcare,PayPal,Mobile
+TXN1313,3287.38,Tokyo,2024-01-02 04:01:00,Healthcare,UPI,Desktop
+TXN1314,1807.77,New York,2024-01-03 01:35:00,Banking,PayPal,Desktop
+TXN1315,1190.64,New York,2024-01-02 00:16:00,Healthcare,Debit Card,Tablet
+TXN1316,525.86,Tokyo,2024-01-02 10:21:00,Banking,Crypto,Mobile
+TXN1317,190.31,Berlin,2024-01-01 04:11:00,Healthcare,Crypto,Mobile
+TXN1318,170.12,London,2024-01-01 14:51:00,Food,Debit Card,Mobile
+TXN1319,288.01,London,2024-01-01 00:13:00,Healthcare,Crypto,Desktop
+TXN1320,796.79,Berlin,2024-01-01 06:47:00,Tech,Credit Card,Mobile
+TXN1321,1253.85,New York,2024-01-02 07:06:00,Healthcare,Debit Card,Tablet
+TXN1322,1079.39,New York,2024-01-05 19:18:00,Healthcare,PayPal,Desktop
+TXN1323,328.41,New York,2024-01-01 02:30:00,Food,Debit Card,Desktop
+TXN1324,3098.1,Mumbai,2024-01-01 12:19:00,Travel,UPI,Mobile
+TXN1325,1339.02,New York,2024-01-02 14:38:00,Food,PayPal,Tablet
+TXN1326,808.23,Bangalore,2024-01-01 05:28:00,Tech,UPI,Desktop
+TXN1327,946.03,Delhi,2024-01-01 19:26:00,Travel,PayPal,Desktop
+TXN1328,544.04,New York,2024-01-02 07:41:00,Retail,Crypto,Mobile
+TXN1329,284.66,Berlin,2024-01-01 22:58:00,Retail,Debit Card,Mobile
+TXN1330,440.01,Delhi,2024-01-01 04:59:00,Tech,Credit Card,Tablet
+TXN1331,1418.18,Mumbai,2024-01-01 10:32:00,Food,PayPal,Mobile
+TXN1332,14.5,Berlin,2024-01-02 12:45:00,Banking,PayPal,Tablet
+TXN1333,123.38,Delhi,2024-01-01 19:23:00,Tech,UPI,Desktop
+TXN1334,47.09,Berlin,2024-01-01 00:07:00,Travel,Crypto,Tablet
+TXN1335,41.58,Mumbai,2024-01-02 10:21:00,Travel,UPI,Tablet
+TXN1336,1934.2,Bangalore,2024-01-01 00:51:00,Healthcare,UPI,Tablet
+TXN1337,1216.24,Mumbai,2024-01-02 08:51:00,Retail,Crypto,Desktop
+TXN1338,642.78,Mumbai,2024-01-01 05:25:00,Travel,Credit Card,Mobile
+TXN1339,102.96,Berlin,2024-01-04 04:07:00,Tech,UPI,Desktop
+TXN1340,676.52,Tokyo,2024-01-01 11:00:00,Travel,UPI,Mobile
+TXN1341,641.45,London,2024-01-01 09:30:00,Tech,PayPal,Tablet
+TXN1342,190.19,New York,2024-01-01 03:52:00,Banking,Crypto,Tablet
+TXN1343,568.9,New York,2024-01-01 08:45:00,Healthcare,Debit Card,Tablet
+TXN1344,508.34,Bangalore,2024-01-03 02:13:00,Retail,Credit Card,Tablet
+TXN1345,956.72,Bangalore,2024-01-06 14:36:00,Travel,Credit Card,Tablet
+TXN1346,1008.11,New York,2024-01-01 11:01:00,Tech,Crypto,Mobile
+TXN1347,46.36,London,2024-01-01 14:17:00,Food,PayPal,Mobile
+TXN1348,469.38,New York,2024-01-02 06:43:00,Retail,PayPal,Tablet
+TXN1349,983.12,Tokyo,2024-01-03 04:09:00,Banking,Crypto,Desktop
+TXN1350,699.44,London,2024-01-01 21:34:00,Tech,PayPal,Desktop
+TXN1351,1941.35,Bangalore,2024-01-01 11:55:00,Healthcare,Credit Card,Tablet
+TXN1352,1074.97,Delhi,2024-01-01 12:46:00,Healthcare,Credit Card,Mobile
+TXN1353,177.85,Berlin,2024-01-02 04:32:00,Banking,Debit Card,Desktop
+TXN1354,73.18,Tokyo,2024-01-01 00:04:00,Banking,Crypto,Desktop
+TXN1355,1028.39,Tokyo,2024-01-01 23:11:00,Healthcare,UPI,Desktop
+TXN1356,26.87,Bangalore,2024-01-01 10:32:00,Travel,UPI,Tablet
+TXN1357,881.35,Bangalore,2024-01-02 13:56:00,Travel,Debit Card,Desktop
+TXN1358,2817.26,Mumbai,2024-01-01 02:20:00,Tech,Debit Card,Desktop
+TXN1359,856.78,Tokyo,2024-01-01 21:17:00,Food,PayPal,Desktop
+TXN1360,491.3,Mumbai,2024-01-01 15:44:00,Tech,Debit Card,Desktop
+TXN1361,1030.83,Mumbai,2024-01-02 00:40:00,Food,Debit Card,Mobile
+TXN1362,612.96,Berlin,2024-01-01 01:36:00,Banking,UPI,Tablet
+TXN1363,788.81,Mumbai,2024-01-01 20:49:00,Retail,PayPal,Tablet
+TXN1364,2838.13,London,2024-01-01 19:47:00,Tech,Debit Card,Mobile
+TXN1365,487.93,New York,2024-01-01 19:44:00,Tech,Debit Card,Mobile
+TXN1366,3249.09,Delhi,2024-01-01 22:12:00,Food,PayPal,Tablet
+TXN1367,2357.58,Bangalore,2024-01-02 03:04:00,Banking,Crypto,Desktop
+TXN1368,217.9,London,2024-01-02 15:13:00,Banking,PayPal,Desktop
+TXN1369,71.88,Delhi,2024-01-01 07:32:00,Food,UPI,Tablet
+TXN1370,106.23,Tokyo,2024-01-02 17:50:00,Banking,Crypto,Desktop
+TXN1371,18.39,Tokyo,2024-01-01 16:33:00,Healthcare,Credit Card,Mobile
+TXN1372,99.21,Tokyo,2024-01-01 01:55:00,Travel,PayPal,Desktop
+TXN1373,1148.87,London,2024-01-01 01:26:00,Healthcare,UPI,Desktop
+TXN1374,73.85,London,2024-01-01 09:45:00,Retail,Crypto,Desktop
+TXN1375,384.16,Bangalore,2024-01-02 12:52:00,Tech,PayPal,Tablet
+TXN1376,1863.53,New York,2024-01-02 05:31:00,Retail,Debit Card,Mobile
+TXN1377,23.55,Mumbai,2024-01-02 13:17:00,Tech,PayPal,Desktop
+TXN1378,1684.53,Tokyo,2024-01-01 17:28:00,Travel,Credit Card,Tablet
+TXN1379,331.08,Berlin,2024-01-01 13:55:00,Banking,PayPal,Desktop
+TXN1380,125.75,New York,2024-01-01 03:49:00,Healthcare,Crypto,Mobile
+TXN1381,1193.16,Berlin,2024-01-01 09:32:00,Food,Crypto,Desktop
+TXN1382,991.4,Bangalore,2024-01-01 13:39:00,Healthcare,PayPal,Mobile
+TXN1383,2099.42,Bangalore,2024-01-01 02:13:00,Travel,Crypto,Desktop
+TXN1384,1328.29,Bangalore,2024-01-01 05:58:00,Retail,Debit Card,Mobile
+TXN1385,1627.0,Delhi,2024-01-01 21:53:00,Food,PayPal,Desktop
+TXN1386,331.33,Berlin,2024-01-02 07:55:00,Banking,Debit Card,Mobile
+TXN1387,195.33,New York,2024-01-07 09:43:00,Travel,Debit Card,Desktop
+TXN1388,1388.76,New York,2024-01-03 16:54:00,Food,UPI,Desktop
+TXN1389,1644.21,London,2024-01-02 00:41:00,Travel,PayPal,Tablet
+TXN1390,4657.0,London,2024-01-01 13:07:00,Travel,Crypto,Tablet
+TXN1391,532.08,Tokyo,2024-01-02 00:15:00,Banking,Debit Card,Mobile
+TXN1392,465.24,London,2024-01-02 12:57:00,Tech,UPI,Desktop
+TXN1393,1497.95,Bangalore,2024-01-01 03:01:00,Food,PayPal,Mobile
+TXN1394,416.73,New York,2024-01-01 12:39:00,Banking,PayPal,Tablet
+TXN1395,2670.14,Berlin,2024-01-02 19:57:00,Travel,Credit Card,Mobile
+TXN1396,1954.84,Bangalore,2024-01-01 11:37:00,Banking,Credit Card,Mobile
+TXN1397,560.36,Delhi,2024-01-01 20:21:00,Tech,Debit Card,Tablet
+TXN1398,1389.78,London,2024-01-01 21:16:00,Healthcare,Credit Card,Desktop
+TXN1399,1404.63,Bangalore,2024-01-01 04:53:00,Food,Debit Card,Mobile
+TXN1400,108.84,Bangalore,2024-01-01 10:47:00,Tech,Crypto,Tablet
+TXN1401,2328.45,Delhi,2024-01-01 09:46:00,Retail,Debit Card,Desktop
+TXN1402,703.71,Mumbai,2024-01-01 00:38:00,Food,Credit Card,Tablet
+TXN1403,1751.33,New York,2024-01-01 00:35:00,Tech,Crypto,Mobile
+TXN1404,385.74,Berlin,2024-01-02 18:46:00,Travel,Credit Card,Desktop
+TXN1405,2258.79,Tokyo,2024-01-01 07:39:00,Food,Debit Card,Desktop
+TXN1406,492.99,Mumbai,2024-01-01 17:31:00,Food,UPI,Tablet
+TXN1407,10.9,London,2024-01-01 08:30:00,Banking,PayPal,Tablet
+TXN1408,2357.91,Bangalore,2024-01-03 19:47:00,Travel,Credit Card,Tablet
+TXN1409,95.73,Delhi,2024-01-01 07:12:00,Retail,Debit Card,Desktop
+TXN1410,384.65,Delhi,2024-01-01 13:28:00,Healthcare,Crypto,Desktop
+TXN1411,2996.97,New York,2024-01-03 01:28:00,Tech,Credit Card,Mobile
+TXN1412,3007.95,Mumbai,2024-01-02 20:16:00,Banking,Credit Card,Desktop
+TXN1413,852.0,Tokyo,2024-01-01 04:56:00,Tech,PayPal,Mobile
+TXN1414,999.23,New York,2024-01-02 14:56:00,Retail,Debit Card,Tablet
+TXN1415,595.01,Bangalore,2024-01-01 14:42:00,Retail,UPI,Tablet
+TXN1416,347.02,New York,2024-01-01 15:49:00,Food,Crypto,Desktop
+TXN1417,398.49,Berlin,2024-01-01 03:26:00,Retail,Debit Card,Tablet
+TXN1418,1116.32,Delhi,2024-01-01 02:01:00,Tech,Crypto,Tablet
+TXN1419,1395.84,Delhi,2024-01-02 07:14:00,Travel,Credit Card,Desktop
+TXN1420,1568.2,London,2024-01-01 16:27:00,Travel,PayPal,Mobile
+TXN1421,1558.83,London,2024-01-01 13:46:00,Food,PayPal,Desktop
+TXN1422,95.64,Tokyo,2024-01-02 07:22:00,Healthcare,UPI,Mobile
+TXN1423,682.05,Bangalore,2024-01-02 10:48:00,Tech,PayPal,Desktop
+TXN1424,59.28,Berlin,2024-01-01 04:09:00,Tech,Credit Card,Desktop
+TXN1425,797.46,Mumbai,2024-01-01 22:36:00,Retail,UPI,Tablet
+TXN1426,582.56,New York,2024-01-01 03:29:00,Tech,Debit Card,Desktop
+TXN1427,2186.62,Tokyo,2024-01-02 09:24:00,Banking,PayPal,Desktop
+TXN1428,432.19,Bangalore,2024-01-02 01:40:00,Healthcare,UPI,Mobile
+TXN1429,124.51,London,2024-01-04 03:18:00,Retail,Credit Card,Tablet
+TXN1430,154.31,New York,2024-01-01 01:42:00,Banking,Crypto,Mobile
+TXN1431,1433.43,London,2024-01-01 01:24:00,Food,Crypto,Mobile
+TXN1432,962.91,New York,2024-01-01 07:57:00,Travel,Credit Card,Tablet
+TXN1433,106.61,Mumbai,2024-01-01 07:16:00,Food,Credit Card,Tablet
+TXN1434,87.86,Bangalore,2024-01-01 06:48:00,Travel,Crypto,Tablet
+TXN1435,1207.21,New York,2024-01-03 08:48:00,Food,UPI,Desktop
+TXN1436,75.55,Berlin,2024-01-01 06:53:00,Tech,Crypto,Tablet
+TXN1437,1725.19,Tokyo,2024-01-01 07:37:00,Banking,Credit Card,Tablet
+TXN1438,1225.0,Delhi,2024-01-02 10:11:00,Travel,PayPal,Tablet
+TXN1439,84.85,Berlin,2024-01-01 14:20:00,Retail,Debit Card,Mobile
+TXN1440,88.65,Berlin,2024-01-02 11:58:00,Banking,PayPal,Mobile
+TXN1441,4315.46,Tokyo,2024-01-01 01:37:00,Retail,PayPal,Desktop
+TXN1442,468.84,Delhi,2024-01-01 16:02:00,Banking,Credit Card,Mobile
+TXN1443,463.06,Berlin,2024-01-01 00:49:00,Banking,Crypto,Desktop
+TXN1444,1675.58,New York,2024-01-01 01:33:00,Food,UPI,Mobile
+TXN1445,2942.16,New York,2024-01-03 08:51:00,Travel,PayPal,Tablet
+TXN1446,4268.77,New York,2024-01-01 03:35:00,Travel,Crypto,Mobile
+TXN1447,1399.9,Delhi,2024-01-01 18:14:00,Banking,UPI,Desktop
+TXN1448,472.02,Berlin,2024-01-01 12:42:00,Tech,PayPal,Mobile
+TXN1449,87.19,Delhi,2024-01-01 10:14:00,Tech,UPI,Tablet
+TXN1450,1501.24,New York,2024-01-03 07:13:00,Retail,Crypto,Desktop
+TXN1451,817.36,Tokyo,2024-01-01 00:31:00,Retail,Debit Card,Tablet
+TXN1452,552.03,Berlin,2024-01-02 02:09:00,Food,Crypto,Tablet
+TXN1453,2368.24,Berlin,2024-01-04 07:22:00,Banking,Credit Card,Desktop
+TXN1454,117.88,London,2024-01-01 19:42:00,Retail,UPI,Tablet
+TXN1455,678.51,London,2024-01-03 18:17:00,Retail,Debit Card,Tablet
+TXN1456,11.42,Mumbai,2024-01-01 01:17:00,Healthcare,UPI,Mobile
+TXN1457,632.35,Bangalore,2024-01-01 13:01:00,Banking,UPI,Tablet
+TXN1458,57.95,London,2024-01-01 07:13:00,Food,PayPal,Tablet
+TXN1459,126.49,Delhi,2024-01-02 07:29:00,Retail,Credit Card,Tablet
+TXN1460,125.03,London,2024-01-04 23:29:00,Food,UPI,Tablet
+TXN1461,1047.57,Mumbai,2024-01-01 07:06:00,Travel,Crypto,Desktop
+TXN1462,1370.6,Berlin,2024-01-02 01:29:00,Food,Crypto,Mobile
+TXN1463,875.55,Mumbai,2024-01-01 05:17:00,Tech,PayPal,Tablet
+TXN1464,3274.72,Berlin,2024-01-01 19:59:00,Tech,Credit Card,Tablet
+TXN1465,469.8,Tokyo,2024-01-01 14:57:00,Food,Credit Card,Desktop
+TXN1466,336.47,Tokyo,2024-01-04 13:49:00,Tech,Crypto,Tablet
+TXN1467,2029.5,Berlin,2024-01-01 22:30:00,Travel,Debit Card,Desktop
+TXN1468,253.08,Bangalore,2024-01-01 10:19:00,Banking,PayPal,Mobile
+TXN1469,3302.87,London,2024-01-01 02:54:00,Tech,PayPal,Mobile
+TXN1470,12.23,Delhi,2024-01-01 03:56:00,Tech,Crypto,Tablet
+TXN1471,3502.53,Delhi,2024-01-01 06:07:00,Food,Crypto,Tablet
+TXN1472,44.12,New York,2024-01-01 06:56:00,Travel,Debit Card,Tablet
+TXN1473,2217.72,Berlin,2024-01-02 21:37:00,Banking,Debit Card,Desktop
+TXN1474,750.14,Delhi,2024-01-01 19:46:00,Food,Credit Card,Tablet
+TXN1475,4956.83,Bangalore,2024-01-01 17:47:00,Food,PayPal,Tablet
+TXN1476,76.66,Berlin,2024-01-01 02:55:00,Healthcare,PayPal,Mobile
+TXN1477,807.11,Bangalore,2024-01-02 23:12:00,Travel,Crypto,Tablet
+TXN1478,3483.58,Delhi,2024-01-02 06:47:00,Banking,Credit Card,Mobile
+TXN1479,740.44,Delhi,2024-01-01 01:40:00,Travel,PayPal,Tablet
+TXN1480,992.63,New York,2024-01-02 05:31:00,Banking,Credit Card,Mobile
+TXN1481,1189.9,Delhi,2024-01-01 18:49:00,Travel,Credit Card,Tablet
+TXN1482,606.13,Berlin,2024-01-01 02:02:00,Food,Crypto,Mobile
+TXN1483,987.67,Tokyo,2024-01-01 14:42:00,Food,Credit Card,Desktop
+TXN1484,877.83,Berlin,2024-01-01 15:54:00,Retail,Debit Card,Mobile
+TXN1485,2314.23,Berlin,2024-01-01 04:21:00,Tech,Debit Card,Mobile
+TXN1486,46.51,New York,2024-01-03 21:55:00,Healthcare,UPI,Mobile
+TXN1487,329.84,New York,2024-01-02 21:31:00,Travel,Crypto,Tablet
+TXN1488,3004.0,Delhi,2024-01-02 02:32:00,Healthcare,UPI,Tablet
+TXN1489,2209.68,Mumbai,2024-01-01 14:53:00,Retail,Debit Card,Tablet
+TXN1490,608.18,Mumbai,2024-01-01 12:44:00,Tech,UPI,Desktop
+TXN1491,967.93,New York,2024-01-02 01:15:00,Travel,Crypto,Desktop
+TXN1492,324.87,Delhi,2024-01-01 18:55:00,Banking,Crypto,Mobile
+TXN1493,208.4,Mumbai,2024-01-01 01:32:00,Tech,Credit Card,Desktop
+TXN1494,623.06,Delhi,2024-01-01 17:14:00,Food,PayPal,Mobile
+TXN1495,435.95,Delhi,2024-01-02 15:24:00,Retail,Credit Card,Mobile
+TXN1496,876.24,Delhi,2024-01-01 14:45:00,Tech,Crypto,Mobile
+TXN1497,80.92,London,2024-01-01 01:16:00,Tech,Debit Card,Desktop
+TXN1498,3664.96,Berlin,2024-01-02 13:02:00,Food,Debit Card,Tablet
+TXN1499,4283.87,Delhi,2024-01-01 05:23:00,Travel,Credit Card,Desktop
+TXN1500,1197.86,London,2024-01-01 07:10:00,Banking,Crypto,Mobile
+TXN1501,768.08,New York,2024-01-01 04:19:00,Food,Debit Card,Mobile
+TXN1502,370.38,Mumbai,2024-01-01 09:37:00,Banking,Crypto,Desktop
+TXN1503,1680.91,Berlin,2024-01-02 09:55:00,Travel,Debit Card,Mobile
+TXN1504,1154.33,Tokyo,2024-01-01 17:35:00,Tech,Crypto,Mobile
+TXN1505,177.47,Mumbai,2024-01-01 05:30:00,Banking,UPI,Desktop
+TXN1506,2418.3,Berlin,2024-01-03 02:27:00,Retail,Crypto,Desktop
+TXN1507,1728.99,Tokyo,2024-01-03 02:48:00,Retail,Crypto,Desktop
+TXN1508,2991.74,Mumbai,2024-01-03 01:04:00,Food,Credit Card,Mobile
+TXN1509,1293.6,Berlin,2024-01-01 06:32:00,Travel,UPI,Mobile
+TXN1510,950.4,Mumbai,2024-01-01 14:24:00,Food,PayPal,Tablet
+TXN1511,541.7,Mumbai,2024-01-05 04:46:00,Food,Credit Card,Tablet
+TXN1512,2699.02,Tokyo,2024-01-02 11:28:00,Healthcare,PayPal,Desktop
+TXN1513,2010.39,Mumbai,2024-01-01 00:39:00,Food,Debit Card,Tablet
+TXN1514,46.27,Mumbai,2024-01-01 01:37:00,Healthcare,PayPal,Mobile
+TXN1515,26.72,Tokyo,2024-01-01 14:57:00,Retail,Crypto,Tablet
+TXN1516,472.35,New York,2024-01-03 09:35:00,Retail,PayPal,Mobile
+TXN1517,1663.65,Delhi,2024-01-01 18:34:00,Food,Credit Card,Desktop
+TXN1518,4364.28,Bangalore,2024-01-01 16:31:00,Retail,Credit Card,Desktop
+TXN1519,163.01,London,2024-01-01 02:40:00,Travel,PayPal,Mobile
+TXN1520,901.72,Bangalore,2024-01-02 01:39:00,Healthcare,Credit Card,Tablet
+TXN1521,479.47,Bangalore,2024-01-02 17:26:00,Healthcare,Credit Card,Desktop
+TXN1522,3503.71,Berlin,2024-01-01 11:29:00,Food,PayPal,Desktop
+TXN1523,1845.91,Delhi,2024-01-02 11:51:00,Retail,UPI,Tablet
+TXN1524,1822.19,Berlin,2024-01-04 08:06:00,Banking,UPI,Tablet
+TXN1525,632.42,Delhi,2024-01-01 05:28:00,Healthcare,Debit Card,Mobile
+TXN1526,535.83,Tokyo,2024-01-01 17:46:00,Food,Credit Card,Tablet
+TXN1527,319.39,Tokyo,2024-01-01 08:07:00,Food,PayPal,Tablet
+TXN1528,58.03,Delhi,2024-01-02 13:47:00,Travel,Credit Card,Tablet
+TXN1529,2000.43,Mumbai,2024-01-01 20:40:00,Tech,Crypto,Mobile
+TXN1530,1676.12,New York,2024-01-02 00:09:00,Tech,Credit Card,Mobile
+TXN1531,8172.45,Mumbai,2024-01-02 14:22:00,Healthcare,Credit Card,Desktop
+TXN1532,5694.87,New York,2024-01-01 12:05:00,Travel,UPI,Mobile
+TXN1533,810.65,Berlin,2024-01-03 11:11:00,Travel,PayPal,Desktop
+TXN1534,1465.28,New York,2024-01-01 18:16:00,Travel,Credit Card,Tablet
+TXN1535,2896.17,Berlin,2024-01-01 04:07:00,Healthcare,UPI,Desktop
+TXN1536,1894.77,Tokyo,2024-01-02 04:34:00,Tech,Debit Card,Desktop
+TXN1537,284.15,Bangalore,2024-01-02 13:49:00,Travel,UPI,Tablet
+TXN1538,598.83,Tokyo,2024-01-01 09:08:00,Retail,UPI,Desktop
+TXN1539,138.3,Tokyo,2024-01-02 22:42:00,Food,UPI,Mobile
+TXN1540,3080.22,Bangalore,2024-01-03 08:47:00,Food,Credit Card,Mobile
+TXN1541,931.85,New York,2024-01-01 07:46:00,Banking,Credit Card,Mobile
+TXN1542,259.6,New York,2024-01-05 02:32:00,Banking,Debit Card,Mobile
+TXN1543,1113.83,Berlin,2024-01-01 03:38:00,Healthcare,Crypto,Desktop
+TXN1544,962.67,Mumbai,2024-01-01 05:24:00,Healthcare,Crypto,Desktop
+TXN1545,443.42,Berlin,2024-01-01 04:53:00,Food,Crypto,Tablet
+TXN1546,120.54,Mumbai,2024-01-03 05:51:00,Retail,Debit Card,Desktop
+TXN1547,1113.44,Tokyo,2024-01-02 01:29:00,Tech,Crypto,Desktop
+TXN1548,734.61,Bangalore,2024-01-01 03:57:00,Tech,Crypto,Desktop
+TXN1549,1479.81,Tokyo,2024-01-01 13:55:00,Healthcare,UPI,Tablet
+TXN1550,734.31,Delhi,2024-01-01 22:55:00,Retail,Credit Card,Mobile
+TXN1551,1911.77,New York,2024-01-01 02:05:00,Healthcare,Credit Card,Desktop
+TXN1552,802.75,Mumbai,2024-01-03 03:22:00,Tech,UPI,Tablet
+TXN1553,823.11,Berlin,2024-01-02 15:03:00,Healthcare,UPI,Tablet
+TXN1554,2092.76,Bangalore,2024-01-01 16:53:00,Travel,UPI,Tablet
+TXN1555,516.65,Mumbai,2024-01-04 09:57:00,Healthcare,Credit Card,Mobile
+TXN1556,143.89,Berlin,2024-01-01 12:58:00,Food,Crypto,Desktop
+TXN1557,29.21,New York,2024-01-05 03:24:00,Healthcare,UPI,Tablet
+TXN1558,1407.06,Tokyo,2024-01-02 02:27:00,Food,Debit Card,Mobile
+TXN1559,968.4,New York,2024-01-02 00:10:00,Retail,UPI,Tablet
+TXN1560,1217.67,London,2024-01-01 04:21:00,Tech,PayPal,Tablet
+TXN1561,239.48,Delhi,2024-01-03 03:16:00,Banking,UPI,Tablet
+TXN1562,146.61,London,2024-01-01 13:23:00,Banking,Credit Card,Tablet
+TXN1563,14.65,Bangalore,2024-01-01 04:14:00,Tech,UPI,Tablet
+TXN1564,431.69,Mumbai,2024-01-01 00:18:00,Banking,PayPal,Mobile
+TXN1565,891.4,Bangalore,2024-01-01 19:41:00,Healthcare,Debit Card,Desktop
+TXN1566,497.98,Tokyo,2024-01-01 17:59:00,Retail,Crypto,Desktop
+TXN1567,575.32,Berlin,2024-01-02 06:29:00,Retail,UPI,Desktop
+TXN1568,2345.06,New York,2024-01-03 05:01:00,Tech,PayPal,Desktop
+TXN1569,428.1,London,2024-01-01 01:59:00,Banking,PayPal,Mobile
+TXN1570,721.53,London,2024-01-02 07:33:00,Healthcare,Debit Card,Mobile
+TXN1571,1530.87,Tokyo,2024-01-01 04:58:00,Retail,Credit Card,Mobile
+TXN1572,505.08,London,2024-01-02 22:52:00,Retail,UPI,Tablet
+TXN1573,973.09,Tokyo,2024-01-02 17:01:00,Travel,PayPal,Tablet
+TXN1574,1983.14,Bangalore,2024-01-01 18:40:00,Travel,Debit Card,Tablet
+TXN1575,2986.19,New York,2024-01-02 05:43:00,Retail,Crypto,Desktop
+TXN1576,159.08,Mumbai,2024-01-01 09:03:00,Tech,PayPal,Tablet
+TXN1577,2611.66,Berlin,2024-01-01 15:17:00,Food,Debit Card,Desktop
+TXN1578,677.5,Mumbai,2024-01-02 17:22:00,Food,Credit Card,Tablet
+TXN1579,298.74,Bangalore,2024-01-01 14:45:00,Healthcare,Credit Card,Desktop
+TXN1580,614.59,Berlin,2024-01-01 10:37:00,Retail,PayPal,Tablet
+TXN1581,3913.65,London,2024-01-01 16:21:00,Retail,PayPal,Tablet
+TXN1582,678.49,Delhi,2024-01-02 18:16:00,Retail,UPI,Mobile
+TXN1583,398.62,Bangalore,2024-01-01 09:47:00,Tech,Debit Card,Tablet
+TXN1584,1003.49,Bangalore,2024-01-01 04:34:00,Travel,PayPal,Tablet
+TXN1585,274.63,New York,2024-01-02 05:52:00,Retail,UPI,Mobile
+TXN1586,78.9,Mumbai,2024-01-02 17:57:00,Retail,UPI,Desktop
+TXN1587,137.98,Bangalore,2024-01-01 02:32:00,Banking,PayPal,Mobile
+TXN1588,137.02,Bangalore,2024-01-01 06:34:00,Tech,Credit Card,Mobile
+TXN1589,164.76,London,2024-01-01 03:40:00,Healthcare,Debit Card,Desktop
+TXN1590,149.46,London,2024-01-01 10:15:00,Retail,Debit Card,Tablet
+TXN1591,1024.08,Berlin,2024-01-01 14:21:00,Banking,Credit Card,Desktop
+TXN1592,200.75,Tokyo,2024-01-02 09:09:00,Food,PayPal,Tablet
+TXN1593,424.14,Tokyo,2024-01-02 01:16:00,Healthcare,Debit Card,Tablet
+TXN1594,2270.97,Delhi,2024-01-01 23:16:00,Retail,PayPal,Desktop
+TXN1595,642.38,Tokyo,2024-01-01 10:25:00,Retail,PayPal,Mobile
+TXN1596,1101.29,New York,2024-01-02 20:12:00,Banking,UPI,Desktop
+TXN1597,189.13,Delhi,2024-01-01 15:17:00,Tech,Credit Card,Tablet
+TXN1598,213.55,Berlin,2024-01-04 20:50:00,Retail,PayPal,Desktop
+TXN1599,41.73,London,2024-01-02 00:07:00,Food,Crypto,Desktop
+TXN1600,185.05,Tokyo,2024-01-01 03:14:00,Retail,Credit Card,Tablet
+TXN1601,326.55,Mumbai,2024-01-02 03:03:00,Food,Debit Card,Mobile
+TXN1602,194.81,London,2024-01-01 09:26:00,Healthcare,UPI,Desktop
+TXN1603,92.89,New York,2024-01-02 03:49:00,Healthcare,Debit Card,Tablet
+TXN1604,128.56,London,2024-01-01 01:43:00,Travel,Debit Card,Tablet
+TXN1605,617.63,New York,2024-01-01 04:36:00,Travel,Credit Card,Desktop
+TXN1606,231.09,New York,2024-01-02 22:28:00,Food,Debit Card,Mobile
+TXN1607,452.98,New York,2024-01-01 06:11:00,Tech,PayPal,Desktop
+TXN1608,700.01,Berlin,2024-01-02 19:32:00,Retail,Debit Card,Mobile
+TXN1609,1172.46,New York,2024-01-01 07:51:00,Retail,UPI,Mobile
+TXN1610,40.11,New York,2024-01-02 00:42:00,Travel,UPI,Mobile
+TXN1611,1606.49,Mumbai,2024-01-02 04:25:00,Food,Crypto,Mobile
+TXN1612,988.59,Delhi,2024-01-01 17:15:00,Retail,UPI,Desktop
+TXN1613,85.3,Bangalore,2024-01-01 08:44:00,Retail,Debit Card,Tablet
+TXN1614,2068.13,Delhi,2024-01-01 05:44:00,Tech,UPI,Tablet
+TXN1615,2536.69,New York,2024-01-01 00:48:00,Banking,Credit Card,Tablet
+TXN1616,63.02,Mumbai,2024-01-01 08:41:00,Travel,UPI,Tablet
+TXN1617,324.18,London,2024-01-02 01:24:00,Travel,PayPal,Tablet
+TXN1618,1640.94,Mumbai,2024-01-03 18:51:00,Banking,Credit Card,Tablet
+TXN1619,1379.36,New York,2024-01-03 01:11:00,Retail,Crypto,Desktop
+TXN1620,203.98,Mumbai,2024-01-02 10:51:00,Tech,PayPal,Mobile
+TXN1621,234.9,Tokyo,2024-01-02 13:16:00,Tech,Debit Card,Tablet
+TXN1622,462.79,Mumbai,2024-01-02 02:14:00,Travel,Debit Card,Desktop
+TXN1623,662.66,New York,2024-01-01 07:14:00,Tech,Debit Card,Tablet
+TXN1624,963.0,Berlin,2024-01-03 09:03:00,Healthcare,PayPal,Tablet
+TXN1625,460.31,Tokyo,2024-01-02 02:39:00,Banking,PayPal,Mobile
+TXN1626,620.89,Mumbai,2024-01-01 19:43:00,Retail,PayPal,Mobile
+TXN1627,1376.23,Bangalore,2024-01-01 02:49:00,Healthcare,Credit Card,Mobile
+TXN1628,37.37,Bangalore,2024-01-01 14:13:00,Banking,Credit Card,Tablet
+TXN1629,290.94,Mumbai,2024-01-01 14:48:00,Food,Debit Card,Tablet
+TXN1630,1249.49,Berlin,2024-01-02 23:58:00,Travel,UPI,Tablet
+TXN1631,2255.77,London,2024-01-01 18:59:00,Tech,Debit Card,Mobile
+TXN1632,716.78,New York,2024-01-01 11:29:00,Food,Crypto,Desktop
+TXN1633,759.53,Bangalore,2024-01-04 18:19:00,Tech,Credit Card,Tablet
+TXN1634,113.36,London,2024-01-01 02:48:00,Healthcare,PayPal,Tablet
+TXN1635,593.14,Mumbai,2024-01-01 13:10:00,Retail,Credit Card,Tablet
+TXN1636,760.61,London,2024-01-01 01:01:00,Retail,PayPal,Desktop
+TXN1637,277.69,Tokyo,2024-01-02 08:19:00,Retail,Crypto,Tablet
+TXN1638,313.67,Delhi,2024-01-03 12:02:00,Tech,Crypto,Desktop
+TXN1639,473.66,Bangalore,2024-01-01 07:53:00,Food,Credit Card,Tablet
+TXN1640,20.28,Mumbai,2024-01-02 22:54:00,Retail,PayPal,Desktop
+TXN1641,388.72,New York,2024-01-01 08:17:00,Food,Crypto,Tablet
+TXN1642,237.56,Berlin,2024-01-03 09:59:00,Tech,Debit Card,Mobile
+TXN1643,396.75,Tokyo,2024-01-02 09:39:00,Healthcare,Debit Card,Mobile
+TXN1644,127.56,Mumbai,2024-01-02 15:13:00,Food,PayPal,Mobile
+TXN1645,2212.08,New York,2024-01-01 00:26:00,Healthcare,Credit Card,Mobile
+TXN1646,900.4,Berlin,2024-01-04 07:00:00,Tech,Crypto,Tablet
+TXN1647,1136.63,Berlin,2024-01-02 07:07:00,Tech,Credit Card,Mobile
+TXN1648,1556.71,Mumbai,2024-01-01 08:43:00,Travel,Debit Card,Desktop
+TXN1649,690.04,Tokyo,2024-01-02 18:26:00,Tech,Crypto,Mobile
+TXN1650,90.93,London,2024-01-01 07:56:00,Tech,Credit Card,Mobile
+TXN1651,770.26,London,2024-01-03 01:28:00,Banking,UPI,Mobile
+TXN1652,883.92,Berlin,2024-01-01 02:51:00,Retail,PayPal,Tablet
+TXN1653,1368.22,London,2024-01-02 05:11:00,Travel,PayPal,Mobile
+TXN1654,565.03,Delhi,2024-01-01 18:40:00,Travel,UPI,Desktop
+TXN1655,136.48,Berlin,2024-01-01 02:26:00,Travel,Debit Card,Mobile
+TXN1656,333.76,Berlin,2024-01-01 06:38:00,Banking,Crypto,Mobile
+TXN1657,451.11,New York,2024-01-01 00:17:00,Healthcare,PayPal,Mobile
+TXN1658,1038.22,London,2024-01-01 15:10:00,Tech,UPI,Desktop
+TXN1659,845.78,Tokyo,2024-01-01 08:36:00,Retail,UPI,Mobile
+TXN1660,440.21,Berlin,2024-01-01 21:53:00,Food,Debit Card,Desktop
+TXN1661,4306.2,Tokyo,2024-01-01 08:27:00,Healthcare,Debit Card,Desktop
+TXN1662,930.83,Delhi,2024-01-01 08:33:00,Tech,Credit Card,Mobile
+TXN1663,270.79,New York,2024-01-02 08:37:00,Banking,PayPal,Desktop
+TXN1664,107.34,Mumbai,2024-01-01 01:11:00,Tech,Credit Card,Tablet
+TXN1665,165.89,Tokyo,2024-01-03 07:58:00,Tech,UPI,Mobile
+TXN1666,282.31,Berlin,2024-01-02 21:53:00,Banking,Crypto,Mobile
+TXN1667,175.16,Delhi,2024-01-02 02:26:00,Travel,Crypto,Desktop
+TXN1668,206.49,Bangalore,2024-01-01 21:35:00,Travel,Debit Card,Desktop
+TXN1669,335.61,Delhi,2024-01-03 05:28:00,Retail,Crypto,Mobile
+TXN1670,190.4,Delhi,2024-01-01 04:55:00,Retail,Crypto,Tablet
+TXN1671,2270.75,New York,2024-01-01 01:58:00,Travel,Crypto,Desktop
+TXN1672,83.64,Mumbai,2024-01-01 06:34:00,Healthcare,UPI,Desktop
+TXN1673,743.41,Bangalore,2024-01-02 13:59:00,Food,Crypto,Tablet
+TXN1674,528.31,London,2024-01-01 00:50:00,Tech,Crypto,Tablet
+TXN1675,4038.64,London,2024-01-01 20:58:00,Food,Crypto,Mobile
+TXN1676,118.83,Tokyo,2024-01-06 09:21:00,Tech,Credit Card,Tablet
+TXN1677,507.26,Delhi,2024-01-02 22:27:00,Travel,UPI,Mobile
+TXN1678,3489.06,New York,2024-01-01 17:41:00,Retail,Debit Card,Tablet
+TXN1679,2006.24,New York,2024-01-01 01:34:00,Healthcare,Credit Card,Desktop
+TXN1680,1698.66,London,2024-01-02 18:43:00,Retail,PayPal,Mobile
+TXN1681,298.28,Tokyo,2024-01-01 21:55:00,Food,UPI,Mobile
+TXN1682,187.4,Tokyo,2024-01-01 02:55:00,Retail,UPI,Mobile
+TXN1683,1104.56,Tokyo,2024-01-01 02:21:00,Travel,PayPal,Tablet
+TXN1684,2650.39,Bangalore,2024-01-03 09:41:00,Healthcare,PayPal,Desktop
+TXN1685,813.65,Mumbai,2024-01-02 02:32:00,Food,PayPal,Mobile
+TXN1686,847.73,Bangalore,2024-01-02 18:25:00,Healthcare,Debit Card,Mobile
+TXN1687,328.48,Berlin,2024-01-03 02:40:00,Tech,Crypto,Mobile
+TXN1688,1467.47,Berlin,2024-01-01 20:21:00,Retail,UPI,Mobile
+TXN1689,207.08,Mumbai,2024-01-01 17:29:00,Healthcare,Crypto,Desktop
+TXN1690,391.09,London,2024-01-01 13:30:00,Banking,Crypto,Tablet
+TXN1691,554.14,Mumbai,2024-01-01 09:08:00,Retail,PayPal,Desktop
+TXN1692,708.48,New York,2024-01-01 13:41:00,Tech,Debit Card,Mobile
+TXN1693,277.61,Berlin,2024-01-02 11:40:00,Healthcare,Credit Card,Desktop
+TXN1694,121.98,Delhi,2024-01-01 22:06:00,Food,Debit Card,Mobile
+TXN1695,943.2,Delhi,2024-01-03 05:31:00,Tech,Crypto,Tablet
+TXN1696,340.56,London,2024-01-01 14:03:00,Banking,Debit Card,Tablet
+TXN1697,870.45,New York,2024-01-01 22:25:00,Healthcare,PayPal,Tablet
+TXN1698,167.66,Bangalore,2024-01-01 23:56:00,Travel,Credit Card,Mobile
+TXN1699,656.12,New York,2024-01-01 21:29:00,Retail,PayPal,Desktop
+TXN1700,760.55,Delhi,2024-01-02 05:06:00,Food,Credit Card,Tablet
+TXN1701,53.21,Delhi,2024-01-01 06:30:00,Travel,Crypto,Mobile
+TXN1702,410.38,Berlin,2024-01-01 17:14:00,Healthcare,Credit Card,Mobile
+TXN1703,144.35,New York,2024-01-01 02:38:00,Healthcare,Credit Card,Desktop
+TXN1704,65.47,New York,2024-01-01 11:38:00,Tech,Credit Card,Tablet
+TXN1705,4601.2,Delhi,2024-01-01 16:03:00,Healthcare,Debit Card,Mobile
+TXN1706,389.13,Bangalore,2024-01-02 01:20:00,Food,Debit Card,Desktop
+TXN1707,1660.07,London,2024-01-04 00:09:00,Travel,Crypto,Tablet
+TXN1708,293.89,Tokyo,2024-01-01 22:01:00,Food,Credit Card,Desktop
+TXN1709,1144.14,London,2024-01-02 08:39:00,Banking,UPI,Desktop
+TXN1710,1428.07,New York,2024-01-01 16:56:00,Banking,Crypto,Mobile
+TXN1711,905.45,London,2024-01-02 00:07:00,Retail,Credit Card,Mobile
+TXN1712,637.86,Delhi,2024-01-01 01:45:00,Retail,Credit Card,Mobile
+TXN1713,530.76,Delhi,2024-01-01 07:02:00,Banking,Debit Card,Desktop
+TXN1714,429.04,New York,2024-01-01 10:46:00,Healthcare,Crypto,Mobile
+TXN1715,2652.56,New York,2024-01-01 15:21:00,Food,Credit Card,Desktop
+TXN1716,1775.61,Tokyo,2024-01-01 01:07:00,Banking,Credit Card,Desktop
+TXN1717,3353.18,Tokyo,2024-01-01 03:37:00,Retail,Crypto,Mobile
+TXN1718,132.73,Berlin,2024-01-01 07:46:00,Banking,UPI,Tablet
+TXN1719,1312.55,New York,2024-01-04 13:24:00,Healthcare,Crypto,Tablet
+TXN1720,2786.13,Bangalore,2024-01-01 09:39:00,Banking,Crypto,Tablet
+TXN1721,199.96,London,2024-01-01 15:47:00,Food,UPI,Desktop
+TXN1722,68.81,New York,2024-01-01 05:14:00,Travel,Crypto,Desktop
+TXN1723,1351.39,Mumbai,2024-01-01 22:38:00,Healthcare,Credit Card,Desktop
+TXN1724,854.43,Berlin,2024-01-01 07:54:00,Retail,Crypto,Mobile
+TXN1725,1844.08,Mumbai,2024-01-01 05:33:00,Food,UPI,Desktop
+TXN1726,150.56,Delhi,2024-01-01 17:26:00,Banking,PayPal,Mobile
+TXN1727,1586.05,Tokyo,2024-01-01 00:07:00,Banking,Crypto,Mobile
+TXN1728,225.18,London,2024-01-01 00:11:00,Travel,Debit Card,Tablet
+TXN1729,178.72,New York,2024-01-01 05:56:00,Retail,Credit Card,Tablet
+TXN1730,179.44,Mumbai,2024-01-01 00:53:00,Retail,Credit Card,Tablet
+TXN1731,1685.1,London,2024-01-01 02:44:00,Tech,Debit Card,Mobile
+TXN1732,1094.21,Delhi,2024-01-01 09:55:00,Retail,Debit Card,Mobile
+TXN1733,740.38,Tokyo,2024-01-02 14:56:00,Travel,Crypto,Mobile
+TXN1734,444.46,Bangalore,2024-01-01 20:22:00,Tech,Debit Card,Desktop
+TXN1735,2097.2,Berlin,2024-01-01 17:15:00,Tech,PayPal,Mobile
+TXN1736,498.31,London,2024-01-01 08:20:00,Banking,UPI,Tablet
+TXN1737,1696.08,London,2024-01-03 16:25:00,Banking,Debit Card,Tablet
+TXN1738,578.27,Bangalore,2024-01-01 12:08:00,Retail,Debit Card,Mobile
+TXN1739,473.12,London,2024-01-01 02:11:00,Tech,PayPal,Mobile
+TXN1740,621.16,Delhi,2024-01-01 23:02:00,Banking,Credit Card,Tablet
+TXN1741,358.65,Delhi,2024-01-01 02:54:00,Travel,Credit Card,Mobile
+TXN1742,1376.78,Bangalore,2024-01-01 10:09:00,Banking,Crypto,Tablet
+TXN1743,698.6,Berlin,2024-01-01 16:59:00,Healthcare,PayPal,Desktop
+TXN1744,264.24,New York,2024-01-03 01:45:00,Healthcare,UPI,Tablet
+TXN1745,2298.34,Mumbai,2024-01-01 16:19:00,Banking,UPI,Desktop
+TXN1746,484.33,New York,2024-01-02 05:04:00,Tech,PayPal,Mobile
+TXN1747,784.28,London,2024-01-05 22:27:00,Tech,UPI,Mobile
+TXN1748,2369.5,Mumbai,2024-01-01 03:23:00,Food,Credit Card,Desktop
+TXN1749,978.8,Bangalore,2024-01-01 07:42:00,Healthcare,UPI,Mobile
+TXN1750,124.31,Bangalore,2024-01-01 12:02:00,Travel,UPI,Desktop
+TXN1751,2810.62,Berlin,2024-01-01 13:08:00,Tech,PayPal,Mobile
+TXN1752,988.08,Mumbai,2024-01-01 12:42:00,Retail,PayPal,Tablet
+TXN1753,407.83,Delhi,2024-01-03 09:09:00,Healthcare,UPI,Mobile
+TXN1754,149.98,Mumbai,2024-01-02 06:02:00,Travel,Debit Card,Tablet
+TXN1755,1580.0,London,2024-01-01 22:28:00,Travel,PayPal,Tablet
+TXN1756,967.78,Delhi,2024-01-01 08:53:00,Tech,Crypto,Desktop
+TXN1757,762.41,Tokyo,2024-01-02 17:39:00,Travel,Crypto,Mobile
+TXN1758,2243.3,Tokyo,2024-01-04 02:27:00,Tech,Credit Card,Desktop
+TXN1759,1553.99,Tokyo,2024-01-02 17:18:00,Banking,UPI,Mobile
+TXN1760,164.49,Bangalore,2024-01-01 00:02:00,Healthcare,Debit Card,Tablet
+TXN1761,373.56,Mumbai,2024-01-02 00:16:00,Food,Credit Card,Tablet
+TXN1762,285.67,Tokyo,2024-01-01 01:15:00,Banking,UPI,Mobile
+TXN1763,1362.37,New York,2024-01-01 07:08:00,Healthcare,PayPal,Mobile
+TXN1764,34.11,Berlin,2024-01-01 01:28:00,Tech,Crypto,Desktop
+TXN1765,843.71,New York,2024-01-01 22:13:00,Healthcare,Debit Card,Mobile
+TXN1766,1437.41,Tokyo,2024-01-02 03:50:00,Tech,Crypto,Mobile
+TXN1767,2093.67,Berlin,2024-01-01 02:55:00,Banking,PayPal,Mobile
+TXN1768,418.67,London,2024-01-01 11:37:00,Retail,UPI,Desktop
+TXN1769,1721.81,New York,2024-01-01 14:37:00,Retail,PayPal,Mobile
+TXN1770,117.24,Mumbai,2024-01-01 11:03:00,Healthcare,PayPal,Tablet
+TXN1771,1873.74,Mumbai,2024-01-01 03:05:00,Retail,Crypto,Desktop
+TXN1772,136.38,New York,2024-01-01 13:01:00,Tech,Debit Card,Desktop
+TXN1773,506.31,Tokyo,2024-01-02 09:23:00,Travel,PayPal,Tablet
+TXN1774,1596.01,Mumbai,2024-01-01 01:46:00,Tech,Crypto,Tablet
+TXN1775,162.42,London,2024-01-01 02:00:00,Travel,Debit Card,Tablet
+TXN1776,260.39,Delhi,2024-01-01 10:30:00,Banking,UPI,Mobile
+TXN1777,1281.04,Tokyo,2024-01-03 20:13:00,Food,UPI,Tablet
+TXN1778,1273.1,London,2024-01-02 02:30:00,Travel,Credit Card,Mobile
+TXN1779,1024.84,Berlin,2024-01-02 03:14:00,Retail,Crypto,Desktop
+TXN1780,1184.0,London,2024-01-01 10:46:00,Tech,Debit Card,Desktop
+TXN1781,782.47,Tokyo,2024-01-01 21:36:00,Banking,PayPal,Tablet
+TXN1782,290.08,Berlin,2024-01-01 00:14:00,Retail,UPI,Mobile
+TXN1783,424.18,Tokyo,2024-01-02 00:15:00,Banking,Debit Card,Tablet
+TXN1784,200.4,Mumbai,2024-01-03 10:41:00,Food,Crypto,Tablet
+TXN1785,2390.88,Delhi,2024-01-01 22:45:00,Tech,Credit Card,Mobile
+TXN1786,875.61,Tokyo,2024-01-03 01:39:00,Healthcare,UPI,Tablet
+TXN1787,512.25,Tokyo,2024-01-02 06:53:00,Tech,Debit Card,Desktop
+TXN1788,619.91,Mumbai,2024-01-01 03:04:00,Food,Debit Card,Tablet
+TXN1789,2942.82,Bangalore,2024-01-03 07:51:00,Tech,Debit Card,Mobile
+TXN1790,166.47,Mumbai,2024-01-01 01:39:00,Healthcare,Crypto,Mobile
+TXN1791,882.44,Berlin,2024-01-01 18:19:00,Travel,Crypto,Desktop
+TXN1792,704.99,Mumbai,2024-01-01 03:40:00,Banking,Crypto,Mobile
+TXN1793,945.34,Mumbai,2024-01-01 00:16:00,Healthcare,PayPal,Mobile
+TXN1794,18.28,Delhi,2024-01-01 13:09:00,Retail,Debit Card,Desktop
+TXN1795,2056.69,Mumbai,2024-01-01 08:23:00,Food,UPI,Tablet
+TXN1796,2689.99,Tokyo,2024-01-01 15:58:00,Travel,Crypto,Desktop
+TXN1797,832.72,Delhi,2024-01-01 20:39:00,Retail,Crypto,Tablet
+TXN1798,1192.87,New York,2024-01-01 01:04:00,Retail,Debit Card,Desktop
+TXN1799,2557.47,Bangalore,2024-01-01 03:09:00,Food,Crypto,Tablet
+TXN1800,1228.4,Delhi,2024-01-01 19:37:00,Travel,PayPal,Desktop
+TXN1801,165.51,Berlin,2024-01-01 10:05:00,Retail,PayPal,Tablet
+TXN1802,858.7,New York,2024-01-02 07:21:00,Retail,Crypto,Desktop
+TXN1803,933.22,Delhi,2024-01-02 01:21:00,Travel,Debit Card,Tablet
+TXN1804,551.87,Delhi,2024-01-02 20:50:00,Tech,Debit Card,Desktop
+TXN1805,1333.49,Bangalore,2024-01-02 04:18:00,Retail,Debit Card,Mobile
+TXN1806,2723.68,Tokyo,2024-01-01 13:29:00,Banking,Credit Card,Tablet
+TXN1807,2597.88,Berlin,2024-01-02 02:49:00,Travel,Crypto,Desktop
+TXN1808,599.36,London,2024-01-01 07:43:00,Retail,Debit Card,Tablet
+TXN1809,120.18,London,2024-01-01 08:46:00,Food,PayPal,Tablet
+TXN1810,4189.17,Delhi,2024-01-02 13:20:00,Healthcare,UPI,Desktop
+TXN1811,1825.72,Mumbai,2024-01-01 14:11:00,Banking,UPI,Tablet
+TXN1812,133.15,Berlin,2024-01-02 14:25:00,Healthcare,Debit Card,Desktop
+TXN1813,2536.31,New York,2024-01-02 17:28:00,Healthcare,UPI,Mobile
+TXN1814,2039.42,Mumbai,2024-01-02 22:46:00,Retail,UPI,Tablet
+TXN1815,731.55,Mumbai,2024-01-03 11:37:00,Banking,Credit Card,Mobile
+TXN1816,894.71,Berlin,2024-01-01 13:31:00,Banking,PayPal,Tablet
+TXN1817,509.16,Tokyo,2024-01-01 09:12:00,Tech,PayPal,Tablet
+TXN1818,56.32,Delhi,2024-01-01 20:56:00,Healthcare,Credit Card,Tablet
+TXN1819,408.26,Delhi,2024-01-01 11:08:00,Banking,Credit Card,Desktop
+TXN1820,1623.81,Delhi,2024-01-01 22:03:00,Tech,UPI,Mobile
+TXN1821,4.64,Delhi,2024-01-02 05:20:00,Travel,Crypto,Tablet
+TXN1822,405.71,London,2024-01-02 03:59:00,Tech,UPI,Desktop
+TXN1823,507.78,Delhi,2024-01-01 11:15:00,Food,Credit Card,Tablet
+TXN1824,770.88,London,2024-01-01 04:22:00,Retail,PayPal,Desktop
+TXN1825,2523.93,London,2024-01-01 13:30:00,Travel,UPI,Tablet
+TXN1826,425.18,Tokyo,2024-01-01 03:41:00,Travel,Crypto,Mobile
+TXN1827,426.11,Delhi,2024-01-03 04:59:00,Food,UPI,Mobile
+TXN1828,1337.51,Bangalore,2024-01-01 10:11:00,Tech,Debit Card,Tablet
+TXN1829,601.88,New York,2024-01-01 04:01:00,Retail,UPI,Desktop
+TXN1830,254.38,Mumbai,2024-01-01 00:37:00,Tech,Credit Card,Tablet
+TXN1831,602.28,London,2024-01-02 00:54:00,Banking,PayPal,Desktop
+TXN1832,151.82,Berlin,2024-01-02 00:18:00,Tech,PayPal,Tablet
+TXN1833,194.05,Berlin,2024-01-01 09:59:00,Travel,Credit Card,Desktop
+TXN1834,689.89,New York,2024-01-01 01:47:00,Retail,Debit Card,Mobile
+TXN1835,542.88,Berlin,2024-01-01 12:38:00,Tech,Credit Card,Tablet
+TXN1836,2463.29,Bangalore,2024-01-01 08:56:00,Retail,UPI,Mobile
+TXN1837,450.03,Berlin,2024-01-02 03:07:00,Retail,Credit Card,Mobile
+TXN1838,868.9,Mumbai,2024-01-01 22:20:00,Banking,Credit Card,Tablet
+TXN1839,1000.39,Mumbai,2024-01-01 10:53:00,Banking,Debit Card,Tablet
+TXN1840,13.18,London,2024-01-01 05:53:00,Travel,UPI,Desktop
+TXN1841,1089.27,Delhi,2024-01-05 10:13:00,Food,Crypto,Desktop
+TXN1842,196.06,Tokyo,2024-01-01 14:31:00,Retail,Crypto,Mobile
+TXN1843,3246.0,Bangalore,2024-01-02 03:58:00,Food,PayPal,Desktop
+TXN1844,160.95,London,2024-01-01 03:38:00,Travel,Credit Card,Desktop
+TXN1845,535.5,Bangalore,2024-01-01 15:57:00,Retail,PayPal,Tablet
+TXN1846,89.21,Delhi,2024-01-01 00:40:00,Retail,Debit Card,Desktop
+TXN1847,5768.08,Berlin,2024-01-01 16:53:00,Healthcare,Crypto,Mobile
+TXN1848,697.55,Berlin,2024-01-04 07:47:00,Food,Credit Card,Desktop
+TXN1849,904.82,Tokyo,2024-01-01 11:38:00,Tech,Debit Card,Mobile
+TXN1850,69.43,Delhi,2024-01-01 00:57:00,Banking,Debit Card,Tablet
+TXN1851,1386.14,London,2024-01-01 00:45:00,Tech,Credit Card,Mobile
+TXN1852,235.6,Tokyo,2024-01-01 11:47:00,Food,Debit Card,Desktop
+TXN1853,2283.31,Delhi,2024-01-01 04:11:00,Banking,Credit Card,Tablet
+TXN1854,229.59,New York,2024-01-01 00:34:00,Tech,Credit Card,Desktop
+TXN1855,211.57,Mumbai,2024-01-02 09:52:00,Healthcare,UPI,Tablet
+TXN1856,37.23,Tokyo,2024-01-01 14:43:00,Banking,PayPal,Tablet
+TXN1857,638.79,Tokyo,2024-01-01 08:11:00,Retail,Debit Card,Desktop
+TXN1858,832.04,London,2024-01-03 07:16:00,Tech,Debit Card,Desktop
+TXN1859,67.97,Bangalore,2024-01-01 02:57:00,Banking,UPI,Tablet
+TXN1860,1494.0,New York,2024-01-04 02:55:00,Healthcare,UPI,Tablet
+TXN1861,603.83,London,2024-01-01 09:02:00,Banking,UPI,Desktop
+TXN1862,743.16,Delhi,2024-01-03 04:37:00,Banking,Crypto,Mobile
+TXN1863,581.18,Delhi,2024-01-01 22:10:00,Healthcare,Crypto,Desktop
+TXN1864,512.1,Delhi,2024-01-02 18:03:00,Tech,Crypto,Tablet
+TXN1865,820.16,Delhi,2024-01-05 03:15:00,Travel,Credit Card,Desktop
+TXN1866,168.7,Bangalore,2024-01-01 08:09:00,Tech,Debit Card,Mobile
+TXN1867,200.81,New York,2024-01-04 05:56:00,Food,PayPal,Desktop
+TXN1868,1978.95,Berlin,2024-01-01 11:50:00,Healthcare,Credit Card,Tablet
+TXN1869,2920.91,Mumbai,2024-01-01 11:41:00,Tech,Debit Card,Desktop
+TXN1870,467.3,Bangalore,2024-01-01 09:59:00,Banking,Debit Card,Tablet
+TXN1871,315.73,Bangalore,2024-01-01 18:42:00,Healthcare,UPI,Tablet
+TXN1872,1032.82,Berlin,2024-01-01 04:01:00,Retail,UPI,Desktop
+TXN1873,525.49,Berlin,2024-01-01 19:21:00,Tech,Credit Card,Tablet
+TXN1874,25.71,Mumbai,2024-01-01 18:43:00,Healthcare,UPI,Tablet
+TXN1875,169.78,Mumbai,2024-01-02 10:26:00,Tech,Debit Card,Mobile
+TXN1876,1258.68,Berlin,2024-01-02 19:02:00,Healthcare,UPI,Mobile
+TXN1877,1075.65,Delhi,2024-01-01 13:56:00,Banking,Crypto,Mobile
+TXN1878,27.47,Bangalore,2024-01-01 08:38:00,Retail,UPI,Mobile
+TXN1879,250.99,London,2024-01-01 07:12:00,Retail,Debit Card,Tablet
+TXN1880,262.76,Mumbai,2024-01-01 05:11:00,Food,Credit Card,Desktop
+TXN1881,1114.41,Mumbai,2024-01-01 01:25:00,Healthcare,PayPal,Tablet
+TXN1882,19.91,Berlin,2024-01-01 10:03:00,Tech,UPI,Tablet
+TXN1883,109.94,New York,2024-01-01 07:33:00,Retail,Debit Card,Tablet
+TXN1884,1609.02,London,2024-01-04 09:26:00,Retail,PayPal,Desktop
+TXN1885,196.68,London,2024-01-01 19:34:00,Travel,PayPal,Mobile
+TXN1886,1057.7,Mumbai,2024-01-01 10:14:00,Travel,Crypto,Tablet
+TXN1887,272.05,Delhi,2024-01-01 20:50:00,Retail,PayPal,Tablet
+TXN1888,104.74,New York,2024-01-01 03:35:00,Healthcare,Debit Card,Mobile
+TXN1889,278.62,London,2024-01-01 14:05:00,Food,Debit Card,Tablet
+TXN1890,1281.09,Mumbai,2024-01-01 23:37:00,Retail,UPI,Desktop
+TXN1891,1935.84,London,2024-01-01 16:06:00,Banking,UPI,Tablet
+TXN1892,1773.25,Tokyo,2024-01-01 12:19:00,Tech,UPI,Tablet
+TXN1893,506.14,New York,2024-01-06 02:11:00,Food,PayPal,Mobile
+TXN1894,1102.88,New York,2024-01-03 02:56:00,Banking,PayPal,Tablet
+TXN1895,229.39,Tokyo,2024-01-01 23:26:00,Food,Crypto,Tablet
+TXN1896,346.93,Bangalore,2024-01-01 20:13:00,Banking,UPI,Desktop
+TXN1897,2266.6,Tokyo,2024-01-01 23:15:00,Tech,Credit Card,Mobile
+TXN1898,13.09,Berlin,2024-01-01 05:23:00,Tech,Crypto,Mobile
+TXN1899,89.39,Berlin,2024-01-01 12:03:00,Travel,Credit Card,Desktop
+TXN1900,233.05,Mumbai,2024-01-01 00:57:00,Healthcare,PayPal,Tablet
+TXN1901,26.89,New York,2024-01-01 15:29:00,Banking,Crypto,Mobile
+TXN1902,200.2,Bangalore,2024-01-01 18:47:00,Travel,Crypto,Mobile
+TXN1903,874.77,Bangalore,2024-01-01 06:12:00,Banking,Debit Card,Tablet
+TXN1904,547.19,London,2024-01-04 07:48:00,Travel,PayPal,Tablet
+TXN1905,2231.86,London,2024-01-03 09:38:00,Tech,PayPal,Mobile
+TXN1906,1700.7,Tokyo,2024-01-02 06:44:00,Food,Crypto,Tablet
+TXN1907,418.27,Bangalore,2024-01-01 18:17:00,Travel,PayPal,Mobile
+TXN1908,300.33,Tokyo,2024-01-03 00:57:00,Banking,Crypto,Tablet
+TXN1909,477.54,Tokyo,2024-01-01 03:21:00,Banking,Debit Card,Tablet
+TXN1910,892.32,London,2024-01-02 13:30:00,Healthcare,Crypto,Desktop
+TXN1911,312.06,New York,2024-01-01 03:11:00,Tech,PayPal,Tablet
+TXN1912,978.56,Tokyo,2024-01-02 13:56:00,Banking,PayPal,Desktop
+TXN1913,526.64,Delhi,2024-01-01 07:44:00,Retail,Crypto,Tablet
+TXN1914,803.07,New York,2024-01-03 02:18:00,Food,Crypto,Mobile
+TXN1915,572.93,Bangalore,2024-01-03 21:11:00,Travel,Crypto,Mobile
+TXN1916,348.8,Bangalore,2024-01-01 03:51:00,Healthcare,UPI,Tablet
+TXN1917,2965.27,Tokyo,2024-01-01 14:54:00,Food,PayPal,Tablet
+TXN1918,1442.25,New York,2024-01-04 23:06:00,Tech,PayPal,Mobile
+TXN1919,150.95,London,2024-01-01 15:51:00,Healthcare,UPI,Tablet
+TXN1920,2028.5,London,2024-01-02 23:48:00,Travel,Crypto,Desktop
+TXN1921,668.32,Berlin,2024-01-01 21:19:00,Travel,Debit Card,Desktop
+TXN1922,2249.54,Bangalore,2024-01-01 11:17:00,Retail,Crypto,Desktop
+TXN1923,1608.71,Mumbai,2024-01-01 08:04:00,Tech,Crypto,Desktop
+TXN1924,553.76,Berlin,2024-01-01 05:27:00,Healthcare,UPI,Desktop
+TXN1925,22.73,London,2024-01-02 10:25:00,Healthcare,PayPal,Tablet
+TXN1926,312.9,New York,2024-01-01 11:43:00,Banking,Crypto,Tablet
+TXN1927,780.09,London,2024-01-01 17:10:00,Retail,PayPal,Desktop
+TXN1928,1003.7,New York,2024-01-01 16:16:00,Retail,Credit Card,Tablet
+TXN1929,298.25,Berlin,2024-01-01 20:39:00,Healthcare,PayPal,Tablet
+TXN1930,150.07,Bangalore,2024-01-03 00:09:00,Healthcare,Debit Card,Desktop
+TXN1931,1801.39,London,2024-01-04 22:47:00,Food,Debit Card,Tablet
+TXN1932,4160.62,Tokyo,2024-01-01 12:33:00,Food,Crypto,Tablet
+TXN1933,745.89,New York,2024-01-02 18:10:00,Food,PayPal,Tablet
+TXN1934,188.35,Bangalore,2024-01-02 10:42:00,Retail,Crypto,Desktop
+TXN1935,317.88,Mumbai,2024-01-01 20:27:00,Banking,UPI,Tablet
+TXN1936,18.56,New York,2024-01-04 02:59:00,Travel,Debit Card,Mobile
+TXN1937,2456.89,Berlin,2024-01-01 05:22:00,Food,Crypto,Mobile
+TXN1938,125.28,Mumbai,2024-01-01 02:46:00,Banking,UPI,Desktop
+TXN1939,859.24,Mumbai,2024-01-02 22:10:00,Tech,Crypto,Mobile
+TXN1940,320.28,Delhi,2024-01-01 13:52:00,Food,PayPal,Desktop
+TXN1941,807.84,London,2024-01-02 21:03:00,Travel,PayPal,Mobile
+TXN1942,1053.89,New York,2024-01-03 05:39:00,Tech,PayPal,Mobile
+TXN1943,1770.44,Mumbai,2024-01-01 01:32:00,Tech,PayPal,Mobile
+TXN1944,231.2,Delhi,2024-01-03 03:35:00,Travel,Credit Card,Desktop
+TXN1945,11.06,Berlin,2024-01-01 14:16:00,Food,UPI,Desktop
+TXN1946,147.21,Bangalore,2024-01-01 17:08:00,Retail,UPI,Tablet
+TXN1947,2302.77,Tokyo,2024-01-01 23:38:00,Travel,PayPal,Desktop
+TXN1948,2070.6,Tokyo,2024-01-03 14:36:00,Travel,Credit Card,Mobile
+TXN1949,909.84,New York,2024-01-01 00:27:00,Travel,PayPal,Mobile
+TXN1950,917.58,Mumbai,2024-01-01 15:32:00,Tech,Credit Card,Desktop
+TXN1951,1093.73,Tokyo,2024-01-02 03:55:00,Banking,PayPal,Desktop
+TXN1952,192.82,London,2024-01-02 06:47:00,Retail,Debit Card,Desktop
+TXN1953,2458.21,Tokyo,2024-01-02 04:18:00,Food,Debit Card,Tablet
+TXN1954,542.61,Tokyo,2024-01-01 03:27:00,Food,Crypto,Mobile
+TXN1955,483.11,Tokyo,2024-01-01 08:32:00,Banking,PayPal,Tablet
+TXN1956,731.72,Delhi,2024-01-01 10:39:00,Travel,UPI,Tablet
+TXN1957,48.1,Mumbai,2024-01-02 15:09:00,Retail,Crypto,Mobile
+TXN1958,181.86,London,2024-01-01 07:50:00,Food,Debit Card,Mobile
+TXN1959,1339.54,Mumbai,2024-01-01 05:40:00,Healthcare,PayPal,Desktop
+TXN1960,86.43,New York,2024-01-04 03:46:00,Food,Crypto,Desktop
+TXN1961,924.2,New York,2024-01-01 00:12:00,Travel,PayPal,Tablet
+TXN1962,281.5,New York,2024-01-07 03:05:00,Healthcare,Debit Card,Desktop
+TXN1963,493.14,Berlin,2024-01-02 03:06:00,Banking,Crypto,Desktop
+TXN1964,340.65,Tokyo,2024-01-02 18:18:00,Retail,Debit Card,Mobile
+TXN1965,439.55,Berlin,2024-01-01 08:22:00,Banking,Credit Card,Mobile
+TXN1966,1269.56,Delhi,2024-01-01 00:20:00,Banking,Debit Card,Desktop
+TXN1967,352.57,New York,2024-01-02 08:08:00,Retail,PayPal,Mobile
+TXN1968,835.64,London,2024-01-02 19:07:00,Retail,UPI,Desktop
+TXN1969,646.36,Mumbai,2024-01-02 08:22:00,Food,Debit Card,Mobile
+TXN1970,1089.67,Tokyo,2024-01-01 03:41:00,Food,UPI,Mobile
+TXN1971,2761.92,Bangalore,2024-01-02 09:36:00,Retail,Credit Card,Mobile
+TXN1972,1318.91,London,2024-01-02 11:09:00,Healthcare,Crypto,Mobile
+TXN1973,242.0,Tokyo,2024-01-02 01:47:00,Tech,Crypto,Desktop
+TXN1974,31.68,Berlin,2024-01-02 10:52:00,Food,UPI,Tablet
+TXN1975,304.17,Berlin,2024-01-02 20:53:00,Tech,Crypto,Mobile
+TXN1976,904.06,London,2024-01-01 22:49:00,Healthcare,Debit Card,Desktop
+TXN1977,52.8,Berlin,2024-01-01 02:13:00,Retail,UPI,Desktop
+TXN1978,685.91,New York,2024-01-01 16:02:00,Healthcare,PayPal,Mobile
+TXN1979,908.43,Delhi,2024-01-01 01:56:00,Food,Debit Card,Tablet
+TXN1980,406.83,Mumbai,2024-01-01 12:33:00,Banking,Debit Card,Mobile
+TXN1981,1473.65,Delhi,2024-01-01 12:32:00,Retail,Debit Card,Desktop
+TXN1982,112.72,Tokyo,2024-01-01 01:38:00,Travel,PayPal,Tablet
+TXN1983,78.11,Mumbai,2024-01-01 10:17:00,Tech,Credit Card,Desktop
+TXN1984,1302.65,Mumbai,2024-01-01 02:49:00,Healthcare,Crypto,Mobile
+TXN1985,684.17,Delhi,2024-01-02 15:38:00,Retail,UPI,Tablet
+TXN1986,1166.04,London,2024-01-03 22:48:00,Healthcare,Credit Card,Desktop
+TXN1987,570.62,Mumbai,2024-01-01 01:48:00,Retail,UPI,Desktop
+TXN1988,282.9,Delhi,2024-01-04 02:29:00,Food,Crypto,Desktop
+TXN1989,1709.82,Mumbai,2024-01-01 17:44:00,Food,PayPal,Mobile
+TXN1990,1606.52,Bangalore,2024-01-01 08:32:00,Food,Debit Card,Tablet
+TXN1991,1186.45,London,2024-01-01 01:55:00,Healthcare,Debit Card,Mobile
+TXN1992,317.65,New York,2024-01-01 16:39:00,Travel,PayPal,Mobile
+TXN1993,892.16,Mumbai,2024-01-02 13:58:00,Food,Credit Card,Mobile
+TXN1994,447.81,Bangalore,2024-01-02 05:28:00,Retail,Credit Card,Tablet
+TXN1995,96.05,New York,2024-01-01 01:14:00,Food,UPI,Mobile
+TXN1996,2492.7,New York,2024-01-01 01:49:00,Banking,PayPal,Mobile
+TXN1997,147.13,Tokyo,2024-01-01 12:22:00,Food,Credit Card,Mobile
+TXN1998,3000.49,Mumbai,2024-01-01 08:23:00,Healthcare,PayPal,Mobile
+TXN1999,590.6,Delhi,2024-01-01 06:20:00,Travel,Crypto,Desktop
