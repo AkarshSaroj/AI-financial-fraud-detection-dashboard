@@ -1,0 +1,13 @@
+transaction_id,amount,location,device_type,time,merchant_category,risk_score,mock_ai_analysis,fraud_flag,ai_analysis
+1,938.54,Mumbai,Tablet,2024-05-25 10:13:00,Grocery,20,Normal transaction,Low Risk,Normal transaction
+2,6020.24,Kolkata,Mobile,2024-01-01 16:27:00,Grocery,100,Very high amount; Large transaction via mobile/tablet,High Risk,Very high amount; Large transaction via mobile/tablet
+3,2633.49,Delhi,Tablet,2024-07-29 10:34:00,Utilities,60,Large transaction via mobile/tablet,Medium Risk,Large transaction via mobile/tablet
+4,1825.89,Delhi,Mobile,2024-03-20 20:48:00,Electronics,20,Normal transaction,Low Risk,Normal transaction
+5,339.25,Kolkata,Mobile,2024-12-01 06:38:00,Clothing,20,Normal transaction,Low Risk,Normal transaction
+6,339.19,Kolkata,Mobile,2024-01-26 12:17:00,Utilities,20,Normal transaction,Low Risk,Normal transaction
+7,119.68,Kolkata,Desktop,2024-02-24 14:11:00,Clothing,20,Normal transaction,Low Risk,Normal transaction
+8,4022.46,Kolkata,Desktop,2024-11-21 20:41:00,Grocery,20,Normal transaction,Low Risk,Normal transaction
+9,1838.16,Delhi,Desktop,2024-07-30 12:00:00,Utilities,20,Normal transaction,Low Risk,Normal transaction
+10,2462.5,Kolkata,Mobile,2024-10-13 20:26:00,Travel,60,Large transaction via mobile/tablet,Medium Risk,Large transaction via mobile/tablet
+11,41.6,Hyderabad,Mobile,2024-04-07 07:52:00,Grocery,20,Normal transaction,Low Risk,Normal transaction
+12,7007.11,Delhi,Mobile,2024-02-15 17:31:00,Clothing,100,Very high amount; High value in non-essential category; Large transaction via mobile/tablet,High Risk,Very high amount; High value in non-essential category; Large transaction via mobile/tablet
